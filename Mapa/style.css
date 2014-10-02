@@ -1,26 +1,23 @@
+.states:hover{
+  	fill: orange;
+  }
 
-.map{
-width: 1200px;
-height: 1000px;
-border: #FFFF 1px solid;
-}
-
-.municipalities {
-  fill: #222;
-}
-
-.municipalities :hover {
-  fill: orange;
+.municipalities:hover {
+ 	fill: orange;
 }
 
 .state-boundary {
-  stroke: #ffff;
+  stroke: #fff;
 }
 
 .municipality-boundary {
-  fill: none;
   stroke: #fff;
   stroke-opacity: .25;
   stroke-width: .5px;
-  pointer-events: none;
+}
+
+#chart {
+  	position: absolute;
+  	top: 50px;
+  	left: 100px;
 }
