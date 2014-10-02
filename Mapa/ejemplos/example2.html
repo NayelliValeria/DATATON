@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+<head>
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<style>
+		.ejemplo{
+			stroke:black;
+			stroke-width:2;
+		}
+	</style>
+</head>
+<body>	
+	<div id="tooltip" style="display:none"></div>
+	<script>		
+		var body = d3.select("body");
+	
+		var svg = body.append("svg")
+			.attr({"width":300, "height":300});
+
+		var data;
+
+		var escala = d3.scale.linear()
+			.domain([0,400])
+			.range([0,200]);
+
+		var color = d3.scale.linear()
+			.domain([0,400])
+			.range(["green", "red"]);
+
+		var g = svg.append("g");
+
+		d3.json("data.json", function(datos){
+			data = datos;
+			g.selectAll("rect")
+			.data(data)
+				.enter().append("rect")
+						.attr("width", function(d){
+							return escala(d.valor);
+						})
+						.attr("height",20)
+						.attr("fill", function(d){
+							return color(d.valor);
+						})
+						.attr("y", function(d, i){			
+							console.log(i * 20);
+							return i * 25;
+						})
+						.attr("class", "ejemplo")
+						.on("mouseover", function(d){
+							console.log(d.valor);
+							/*d3.select("#tooltip")
+								.html(d)
+								.style({"display":"block"});*/
+
+							d3.select(this).transition()
+								.duration(750)
+								.style({"stroke-width":5});
+						})
+						.on("mouseout", function(d){
+							/*d3.select("#tooltip")			
+								.style({"display":"none"});	
+								*/
+							d3.select(this).transition()
+								.duration(750)
+								.style({"stroke-width":1});
+						});
+		});
+
+		
+
+			g.attr("transform","translate(50,100)scale(.5)");
+
+
+
+
+
+	</script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+<head>
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<style>
+		.example{
+			color:green;
+		}
+	</style>
+</head
+<body>
+	<p id="parrafo">Hola</p>
+	<p></p>
+	<script>
+		d3.selectAll("p")
+			.html("Hola a todos!")
+			.attr("class","example");
+		var body = d3.select("body");
+		/*body.append("div")
+			.html("Contendio del div")
+			.attr({"width":300, "height":200})
+			.style({"color":"red"});*/
+
+		var svg = body.append("svg")
+			.attr({"width":300, "height":300});
+
+		var circle = svg.append("circle")
+			.attr({"r":50, "cx":50, "cy":50, "fill":"green"}); 
+
+		var rect = svg.append("rect")
+			.attr({"width":100, "height":50, "x":100, "y":100});
+
+		var linea = svg.append("line")
+			.attr({"x1":0, "y1":0, "x2":300,"y2":0, "stroke":"gray"});
+
+
+
+	</script>
+</body>
+</html>

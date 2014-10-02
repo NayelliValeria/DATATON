@@ -1,0 +1,121 @@
+
+/*layout*/
+
+#content{
+	width: 90%;
+	height: 100%;
+	margin-left: 5%;
+}
+
+#header{
+	margin-top: 20px;
+	background: red;
+	width: 100%;
+	height: 100px;
+	font-family: "Helvetica";
+	font-size: 20px;
+}
+
+.content_intro{
+	background: blue;
+	width: 100%;
+	height: 300px;
+}
+
+.img_intro{
+	background: yellow;
+	width: 30%;
+	height: 300px;
+	float: left;
+}
+
+.text_intro{
+	background: orange;
+	width: 70%;
+	height: 300px;
+	float: right;
+}
+
+#content_map{
+	width: 100%;
+	height: auto;
+	background: red;
+}
+
+#menu{
+	width: 75%;
+	height: 80px;
+	background: green;
+	float: left;
+}
+
+#filter{
+	width: 25%;
+	height: 80px;
+	background: pink;
+	float: right;
+}
+
+#map{
+	height: 550px;
+	width: 75%;
+	float: left;
+}
+
+#info{
+	height: 550px;
+	width: 25%;
+	background: yellow;
+	float: right;
+}
+
+#content_spider{
+	height: auto;
+	width: 100%;
+}
+
+#spider{
+	width: 60%;
+	height: 200px;
+	background: red;
+	float: left;
+}
+
+#spider_info{
+	width: 40%;
+	height: 200px;
+	background: gray;
+	float: right;
+}
+
+#footer{
+	width: 100%;
+	height: 100px;
+	background: yellow;
+	float: right;
+}
+
+.div_select{
+	width: 29%;
+	float: left;
+	padding: 1% 2%;
+}
+
+/*elements*/
+.menu_select{
+	width: 100%;
+	padding: 2%;
+	display: block;
+}
+
+.div_select_edo{
+	width: 100%;
+	float: left;
+	padding-top: 2%;
+}
+
+.div_select_edo select{
+	width: 70%;
+	float: right;
+	padding: 1% 2%;
+}
