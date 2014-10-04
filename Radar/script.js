@@ -43,33 +43,52 @@ pct_fem_no_school	223.68
 pct_entitled_health_serv	165.67
 rural_basico_distance	164.36
 urban_pop_fem	160.25
-birth_procedure_cesarean	156.83
+birth_procedure_cesarean	156.
+
+
+CORRECTAS
+pct_fem_primary_degree	985.95
+pct_single	782.86
+avg_prenatal_consults	698.74
+avg_children_born	632.93
+insurance_none	604.5
+pct_born_here	582.47
+margination	580.52
+pct_disabilies	563.64
+attended_birth_doctor	537.77
+prenatal_yes	515.99
+pct_entitled_health_serv	511.55
+birth_procedure_cesarean	404.56
+pct_imss_insured	363.97
+
 */
 
 //Data
 var d = [
 		  [
-			{axis:"Porcentaje de mujeres con educación primaria",value:985.95},
-			{axis:"Porcentaje de mujeres solteras",value:782.86},
+			{axis:"Sólo educación primaria",value:985.95},
+			{axis:"Solteras",value:782.86},
 			{axis:"Promedio de consultas prenatales",value: 698.74},
 			{axis:"Promedio de niños nacidos",value:632.93},
-			{axis:"Falta de seguro médico",value:604.5},
-			{axis:"Porcentaje de niños nacidos",value:582.47},
-			{axis:"Índice de marginación",value:580.52},
-			{axis:"Porcentaje de muejres con discapacidad",value:563.64},
-			{axis:"Asistencia del médico durante el parto",value:537.77},
-			{axis:"prenatal_yes",value:515.99}
-		  ],[
+			{axis:"Derechohabiencia",value:604.5},
+			{axis:"Nacimientos en la localidad",value:582.47},
+			{axis:"Marginación",value:580.52},
+			{axis:"Discapacidad",value:563.64},
+			{axis:"Atención de un médico durante el parto",value:515.99},
+			{axis:"Con consultas prenatales",value:511.55},
+			{axis:"Parto con cesárea",value:404.56},
+			{axis:"Aseguradas del IMSSS",value:363.97}
+		  ]/*,[
 			{axis:"Porcentaje de muejres con discapacidad", value:2398.23},
 			{axis:"Promedio de consultas prenatales", value:606.02},
 			{axis:"Distancia al hospital en zonas urbanas", value:431.57},
-			{axis:"urban_clue_distance", value:391.Distancia al hospital en zonas urbanas13},
+			{axis:"urban_clue_distance", value:391.13},
 			{axis:"Índice de marginación", value:233.25},
 			{axis:"Porcentaje de mujeres sin acceso a la educación", value:223.68},
 			{axis:"Porcentaje de derechohabientes", value:165.67},
 			{axis:"rural_basico_distance", value:164.36},
 			{axis:"Población femenina en zonas urbanas", value:160.25},
-			{axis:"Cesárea durante el parto", value:156.83},
+			{axis:"Cesárea durante el parto", value:156.83}
 		  ],[
 			{axis:"Distancia al hospital en zonas urbanas", value:4746.39},
 			{axis:"urban_clue_distance", value:3854.58},
@@ -80,8 +99,8 @@ var d = [
 			{axis:"Porcentaje de muejres con discapacidad", value:1084.84},
 			{axis:"Muejeres con médico familiar", value:981.54},
 			{axis:"clue_distance", value:934.28},
-			{axis:"Mujeres sin seguro médico", value:845.55},
-		  ]/*,[
+			{axis:"Mujeres sin seguro médico", value:845.55}
+		  ],[
 			{axis:"", value:},
 			{axis:"", value:},
 			{axis:"", value:},
@@ -122,7 +141,7 @@ var d = [
 var mycfg = {
   w: w,
   h: h,
-  maxValue: 2398,
+  maxValue: 1000,
   levels: 6,
   ExtraWidthX: 300
 }

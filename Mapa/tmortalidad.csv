@@ -1,0 +1,2457 @@
+cve,entidad,pob
+1,Aguascalientes,0.307251127
+2,Aguascalientes,0.452898551
+3,Aguascalientes,0.406834825
+4,Aguascalientes,1.406469761
+5,Aguascalientes,0.53540356
+6,Aguascalientes,0.61500615
+7,Aguascalientes,1.012965964
+8,Aguascalientes,0
+9,Aguascalientes,0
+10,Aguascalientes,0.692520776
+11,Aguascalientes,1.042390549
+12,Baja California,0.422246351
+13,Baja California,0.318215315
+14,Baja California,0.164365549
+15,Baja California,0.605673509
+16,Baja California,0.35391966
+17,Baja California Sur,0.818833163
+18,Baja California Sur,0.652032167
+19,Baja California Sur,0.361947276
+20,Baja California Sur,0.171399189
+21,Baja California Sur,0.879507476
+22,Campeche,0.631313131
+23,Campeche,0.532670455
+24,Campeche,0.256657042
+25,Campeche,0.804764204
+26,Campeche,0.561167228
+27,Campeche,1.506591337
+28,Campeche,2.150537634
+29,Campeche,0
+30,Campeche,0.582863804
+31,Campeche,0.656598818
+32,Campeche,0.800320128
+33,Coahuila de Zaragoza,0
+34,Coahuila de Zaragoza,0.34016498
+35,Coahuila de Zaragoza,0
+36,Coahuila de Zaragoza,0.707213579
+37,Coahuila de Zaragoza,0
+38,Coahuila de Zaragoza,0
+39,Coahuila de Zaragoza,0
+40,Coahuila de Zaragoza,0
+41,Coahuila de Zaragoza,0.415713989
+42,Coahuila de Zaragoza,0.184195985
+43,Coahuila de Zaragoza,0
+44,Coahuila de Zaragoza,10.86956522
+45,Coahuila de Zaragoza,0
+46,Coahuila de Zaragoza,0
+47,Coahuila de Zaragoza,0
+48,Coahuila de Zaragoza,0
+49,Coahuila de Zaragoza,0.260382763
+50,Coahuila de Zaragoza,0.2199978
+51,Coahuila de Zaragoza,1.941747573
+52,Coahuila de Zaragoza,0.53561864
+53,Coahuila de Zaragoza,0
+54,Coahuila de Zaragoza,1.046025105
+55,Coahuila de Zaragoza,0
+56,Coahuila de Zaragoza,0.295420975
+57,Coahuila de Zaragoza,0.228728271
+58,Coahuila de Zaragoza,0
+59,Coahuila de Zaragoza,0.386249517
+60,Coahuila de Zaragoza,0.472032098
+61,Coahuila de Zaragoza,0
+62,Coahuila de Zaragoza,0.475184794
+63,Coahuila de Zaragoza,0
+64,Coahuila de Zaragoza,1.050052503
+65,Coahuila de Zaragoza,0.244498778
+66,Coahuila de Zaragoza,3.937007874
+67,Coahuila de Zaragoza,0.396717683
+68,Coahuila de Zaragoza,0
+69,Coahuila de Zaragoza,0
+70,Coahuila de Zaragoza,0
+71,Colima,1.071811361
+72,Colima,0.100371374
+73,Colima,0
+74,Colima,0
+75,Colima,0
+76,Colima,0
+77,Colima,0.338839475
+78,Colima,0
+79,Colima,0.196831021
+80,Colima,0.263469899
+81,Chiapas,1.479289941
+82,Chiapas,0
+83,Chiapas,0.900090009
+84,Chiapas,0
+85,Chiapas,4.778972521
+86,Chiapas,1.316655695
+87,Chiapas,5.952380952
+88,Chiapas,1.491053678
+89,Chiapas,1.218026797
+90,Chiapas,0
+91,Chiapas,0.865800866
+92,Chiapas,1.263157895
+93,Chiapas,1.585623679
+94,Chiapas,1.367989056
+95,Chiapas,0.624219725
+96,Chiapas,0
+97,Chiapas,0.49382716
+98,Chiapas,3.636363636
+99,Chiapas,0.39799411
+100,Chiapas,1.843657817
+101,Chiapas,2.928257687
+102,Chiapas,0
+103,Chiapas,25.83979328
+104,Chiapas,4.784688995
+105,Chiapas,0
+106,Chiapas,20.90592334
+107,Chiapas,0.601684717
+108,Chiapas,0
+109,Chiapas,0
+110,Chiapas,0.505816894
+111,Chiapas,4.374240583
+112,Chiapas,1.516300227
+113,Chiapas,8
+114,Chiapas,0.39793076
+115,Chiapas,0
+116,Chiapas,5.988023952
+117,Chiapas,0.626566416
+118,Chiapas,0
+119,Chiapas,3.891050584
+120,Chiapas,1.057827927
+121,Chiapas,1.079913607
+122,Chiapas,0
+123,Chiapas,1.754385965
+124,Chiapas,1.576044129
+125,Chiapas,0
+126,Chiapas,1.386962552
+127,Chiapas,4.255319149
+128,Chiapas,0
+129,Chiapas,0
+130,Chiapas,0
+131,Chiapas,1.5625
+132,Chiapas,0.375610367
+133,Chiapas,1.655629139
+134,Chiapas,0
+135,Chiapas,0
+136,Chiapas,14.08450704
+137,Chiapas,1.200480192
+138,Chiapas,6.756756757
+139,Chiapas,1.975668088
+140,Chiapas,14.92537313
+141,Chiapas,1.116569897
+142,Chiapas,0.884955752
+143,Chiapas,0
+144,Chiapas,1.331557923
+145,Chiapas,0.887536452
+146,Chiapas,8.888888889
+147,Chiapas,0
+148,Chiapas,0
+149,Chiapas,1.941747573
+150,Chiapas,3.322259136
+151,Chiapas,0
+152,Chiapas,1.926782274
+153,Chiapas,0
+154,Chiapas,0
+155,Chiapas,0.676589986
+156,Chiapas,6.053268765
+157,Chiapas,1.335559265
+158,Chiapas,0.705032167
+159,Chiapas,0
+160,Chiapas,0.920810313
+161,Chiapas,7.299270073
+162,Chiapas,3.278688525
+163,Chiapas,0.893655049
+164,Chiapas,5
+165,Chiapas,0
+166,Chiapas,1.316655695
+167,Chiapas,0
+168,Chiapas,0
+169,Chiapas,0.498753117
+170,Chiapas,0
+171,Chiapas,1.256281407
+172,Chiapas,2.173913043
+173,Chiapas,9.324009324
+174,Chiapas,4.162330905
+175,Chiapas,1.986942946
+176,Chiapas,0.207296849
+177,Chiapas,0
+178,Chiapas,0.914076782
+179,Chiapas,0.637755102
+180,Chiapas,0.43099965
+181,Chiapas,0.722543353
+182,Chiapas,0
+183,Chiapas,1.004016064
+184,Chiapas,0
+185,Chiapas,0.805801773
+186,Chiapas,0.678272666
+187,Chiapas,0.584624379
+188,Chiapas,0
+189,Chiapas,0
+190,Chiapas,3.344481605
+191,Chiapas,11.56069364
+192,Chiapas,30.3030303
+193,Chiapas,2.523659306
+194,Chiapas,3.96039604
+195,Chiapas,0
+196,Chiapas,2.427184466
+197,Chiapas,0
+198,Chiapas,100
+199,Chihuahua,1.834862385
+200,Chihuahua,0
+201,Chihuahua,0
+202,Chihuahua,0
+203,Chihuahua,0
+204,Chihuahua,3.6900369
+205,Chihuahua,3.703703704
+206,Chihuahua,5.662514156
+207,Chihuahua,2.142245073
+208,Chihuahua,3.986710963
+209,Chihuahua,0.345901072
+210,Chihuahua,15.5210643
+211,Chihuahua,1.831501832
+212,Chihuahua,0
+213,Chihuahua,0
+214,Chihuahua,0
+215,Chihuahua,0.541956463
+216,Chihuahua,0
+217,Chihuahua,0.387596899
+218,Chihuahua,2.96735905
+219,Chihuahua,0.460988821
+220,Chihuahua,0
+221,Chihuahua,0
+222,Chihuahua,0
+223,Chihuahua,1.949317739
+224,Chihuahua,0
+225,Chihuahua,4.352557127
+226,Chihuahua,10.20408163
+227,Chihuahua,1.837813003
+228,Chihuahua,0
+229,Chihuahua,1.477832512
+230,Chihuahua,0.352858151
+231,Chihuahua,0
+232,Chihuahua,0
+233,Chihuahua,0
+234,Chihuahua,0
+235,Chihuahua,0.615785851
+236,Chihuahua,0
+237,Chihuahua,0
+238,Chihuahua,0.603136309
+239,Chihuahua,0
+240,Chihuahua,0
+241,Chihuahua,18.34862385
+242,Chihuahua,0
+243,Chihuahua,1.576665353
+244,Chihuahua,0
+245,Chihuahua,0
+246,Chihuahua,1.895734597
+247,Chihuahua,0
+248,Chihuahua,0.243961942
+249,Chihuahua,0
+250,Chihuahua,1.647446458
+251,Chihuahua,0
+252,Chihuahua,0
+253,Chihuahua,2.325581395
+254,Chihuahua,0
+255,Chihuahua,0
+256,Chihuahua,0
+257,Chihuahua,2.583979328
+258,Chihuahua,0
+259,Chihuahua,0
+260,Chihuahua,1.349527665
+261,Chihuahua,3.759398496
+262,Chihuahua,0
+263,Chihuahua,4.694835681
+264,Chihuahua,8.032128514
+265,Chihuahua,0
+266,Distrito Federal,0.783162017
+267,Distrito Federal,0.501684226
+268,Distrito Federal,0.769296521
+269,Distrito Federal,0.391890873
+270,Distrito Federal,0.636661933
+271,Distrito Federal,0.622611328
+272,Distrito Federal,0.416550958
+273,Distrito Federal,0.767712218
+274,Distrito Federal,0.564546481
+275,Distrito Federal,0.591920288
+276,Distrito Federal,0.281642539
+277,Distrito Federal,0.777907429
+278,Distrito Federal,0.468290072
+279,Distrito Federal,0.630657368
+280,Distrito Federal,0.453437624
+281,Distrito Federal,0.335894529
+282,Durango,1.043296818
+283,Durango,0
+284,Durango,0
+285,Durango,0
+286,Durango,0.44364635
+287,Durango,0
+288,Durango,0.441176471
+289,Durango,0.515729758
+290,Durango,1.692047377
+291,Durango,0
+292,Durango,0
+293,Durango,0.28481914
+294,Durango,0.506585613
+295,Durango,2.917882451
+296,Durango,1.168224299
+297,Durango,0
+298,Durango,0
+299,Durango,0
+300,Durango,0
+301,Durango,1.689189189
+302,Durango,1.555209953
+303,Durango,0
+304,Durango,0
+305,Durango,0
+306,Durango,0
+307,Durango,1.819836215
+308,Durango,3.086419753
+309,Durango,1.297016861
+310,Durango,0
+311,Durango,0
+312,Durango,0
+313,Durango,0.588754784
+314,Durango,0
+315,Durango,0.521920668
+316,Durango,1.517450683
+317,Durango,0.736377025
+318,Durango,0
+319,Durango,0
+320,Durango,0
+321,Guanajuato,0.282485876
+322,Guanajuato,0.275103164
+323,Guanajuato,0.295355534
+324,Guanajuato,0.795544948
+325,Guanajuato,0.291970803
+326,Guanajuato,0
+327,Guanajuato,0.262908823
+328,Guanajuato,0
+329,Guanajuato,0.291800409
+330,Guanajuato,0
+331,Guanajuato,0.283728188
+332,Guanajuato,0
+333,Guanajuato,1.498501499
+334,Guanajuato,0.353007625
+335,Guanajuato,0.284232218
+336,Guanajuato,0.626174076
+337,Guanajuato,0.382788048
+338,Guanajuato,0.414593698
+339,Guanajuato,1.265822785
+340,Guanajuato,0.412929073
+341,Guanajuato,0.624219725
+342,Guanajuato,1.068376068
+343,Guanajuato,0.260145682
+344,Guanajuato,0
+345,Guanajuato,0.551470588
+346,Guanajuato,0.63734863
+347,Guanajuato,0.727232043
+348,Guanajuato,0.774893452
+349,Guanajuato,0.332005312
+350,Guanajuato,0.628272251
+351,Guanajuato,0.303889789
+352,Guanajuato,0.447427293
+353,Guanajuato,1.165614376
+354,Guanajuato,0
+355,Guanajuato,0.853970965
+356,Guanajuato,0
+357,Guanajuato,0.390701309
+358,Guanajuato,0
+359,Guanajuato,0.38925652
+360,Guanajuato,0
+361,Guanajuato,0.239120038
+362,Guanajuato,0.286779467
+363,Guanajuato,1.218769043
+364,Guanajuato,0.217060994
+365,Guanajuato,0
+366,Guanajuato,0.373134328
+367,Guerrero,0.571791614
+368,Guerrero,1.860465116
+369,Guerrero,0.573394495
+370,Guerrero,3.361344538
+371,Guerrero,0
+372,Guerrero,6.779661017
+373,Guerrero,1.062699256
+374,Guerrero,0
+375,Guerrero,5.714285714
+376,Guerrero,4.136504654
+377,Guerrero,1.685772084
+378,Guerrero,3.225806452
+379,Guerrero,0
+380,Guerrero,0
+381,Guerrero,0
+382,Guerrero,2.590673575
+383,Guerrero,1.166861144
+384,Guerrero,2.642007926
+385,Guerrero,0.956022945
+386,Guerrero,5.882352941
+387,Guerrero,0
+388,Guerrero,0
+389,Guerrero,0.641848524
+390,Guerrero,0
+391,Guerrero,2.699055331
+392,Guerrero,2.96735905
+393,Guerrero,1.926782274
+394,Guerrero,2.965758965
+395,Guerrero,0.642776796
+396,Guerrero,2.307692308
+397,Guerrero,0
+398,Guerrero,1.059322034
+399,Guerrero,3.606853021
+400,Guerrero,1.408450704
+401,Guerrero,0.526205009
+402,Guerrero,0
+403,Guerrero,0
+404,Guerrero,0.255167134
+405,Guerrero,0
+406,Guerrero,0.743494424
+407,Guerrero,4.140786749
+408,Guerrero,3.722084367
+409,Guerrero,12.34567901
+410,Guerrero,0
+411,Guerrero,3.541076487
+412,Guerrero,0.755096904
+413,Guerrero,0
+414,Guerrero,1.114206128
+415,Guerrero,1.360544218
+416,Guerrero,0.388802488
+417,Guerrero,3.205128205
+418,Guerrero,4.190675746
+419,Guerrero,1.571709234
+420,Guerrero,2.465078061
+421,Guerrero,0.292997363
+422,Guerrero,3.358925144
+423,Guerrero,0
+424,Guerrero,1.865671642
+425,Guerrero,1.101928375
+426,Guerrero,0
+427,Guerrero,2.159827214
+428,Guerrero,10.63829787
+429,Guerrero,3.802281369
+430,Guerrero,0
+431,Guerrero,0
+432,Guerrero,1.353729525
+433,Guerrero,0
+434,Guerrero,1.168224299
+435,Guerrero,0
+436,Guerrero,2.212389381
+437,Guerrero,3.27510917
+438,Guerrero,4.750593824
+439,Guerrero,0.971817298
+440,Guerrero,1.407459536
+441,Guerrero,0.329489292
+442,Guerrero,22.77904328
+443,Guerrero,0
+444,Guerrero,20.40816327
+445,Guerrero,4.728132388
+446,Guerrero,0
+447,Guerrero,7.352941176
+448,Hidalgo,0.552791598
+449,Hidalgo,0.988386459
+450,Hidalgo,0
+451,Hidalgo,1.408450704
+452,Hidalgo,0
+453,Hidalgo,0.972762646
+454,Hidalgo,0
+455,Hidalgo,0
+456,Hidalgo,0.816326531
+457,Hidalgo,0
+458,Hidalgo,0.881834215
+459,Hidalgo,0.456412597
+460,Hidalgo,0.480307397
+461,Hidalgo,2.252252252
+462,Hidalgo,1.834862385
+463,Hidalgo,0.733675715
+464,Hidalgo,0
+465,Hidalgo,0.651041667
+466,Hidalgo,0
+467,Hidalgo,7.751937984
+468,Hidalgo,1.287001287
+469,Hidalgo,0
+470,Hidalgo,0.924641701
+471,Hidalgo,0
+472,Hidalgo,0.936329588
+473,Hidalgo,0
+474,Hidalgo,2.314814815
+475,Hidalgo,0.804227941
+476,Hidalgo,0.702000702
+477,Hidalgo,0.968054211
+478,Hidalgo,0
+479,Hidalgo,0
+480,Hidalgo,0
+481,Hidalgo,0
+482,Hidalgo,0
+483,Hidalgo,0
+484,Hidalgo,0
+485,Hidalgo,0
+486,Hidalgo,0
+487,Hidalgo,0
+488,Hidalgo,0.691562932
+489,Hidalgo,2.812939522
+490,Hidalgo,2.617801047
+491,Hidalgo,0
+492,Hidalgo,0
+493,Hidalgo,0.451875282
+494,Hidalgo,0
+495,Hidalgo,0.340582883
+496,Hidalgo,0.814995925
+497,Hidalgo,0
+498,Hidalgo,0.341530055
+499,Hidalgo,0.983284169
+500,Hidalgo,0.997008973
+501,Hidalgo,0.463821892
+502,Hidalgo,0
+503,Hidalgo,0
+504,Hidalgo,0.836120401
+505,Hidalgo,1.048218029
+506,Hidalgo,0
+507,Hidalgo,0.819000819
+508,Hidalgo,1.046025105
+509,Hidalgo,2.087682672
+510,Hidalgo,0.176180409
+511,Hidalgo,0
+512,Hidalgo,0
+513,Hidalgo,0
+514,Hidalgo,0
+515,Hidalgo,1.338688086
+516,Hidalgo,0.635223122
+517,Hidalgo,0
+518,Hidalgo,0
+519,Hidalgo,0
+520,Hidalgo,0.368053
+521,Hidalgo,0
+522,Hidalgo,0
+523,Hidalgo,0.280662363
+524,Hidalgo,0.574995893
+525,Hidalgo,0
+526,Hidalgo,0
+527,Hidalgo,0
+528,Hidalgo,1.263689975
+529,Hidalgo,2.692998205
+530,Hidalgo,0
+531,Hidalgo,0.791139241
+532,Jalisco,0.715307582
+533,Jalisco,0
+534,Jalisco,0.656167979
+535,Jalisco,0
+536,Jalisco,0
+537,Jalisco,0.482392668
+538,Jalisco,1.620745543
+539,Jalisco,1.256676092
+540,Jalisco,0.756429652
+541,Jalisco,1.697792869
+542,Jalisco,0
+543,Jalisco,0
+544,Jalisco,0.651041667
+545,Jalisco,0
+546,Jalisco,0.447527411
+547,Jalisco,0
+548,Jalisco,0
+549,Jalisco,0.842992624
+550,Jalisco,0
+551,Jalisco,2.024291498
+552,Jalisco,0
+553,Jalisco,0.323939099
+554,Jalisco,0.181653043
+555,Jalisco,0.471698113
+556,Jalisco,0
+557,Jalisco,0
+558,Jalisco,0
+559,Jalisco,0
+560,Jalisco,0
+561,Jalisco,0
+562,Jalisco,0
+563,Jalisco,0
+564,Jalisco,0
+565,Jalisco,0
+566,Jalisco,1.023541453
+567,Jalisco,0
+568,Jalisco,0
+569,Jalisco,0
+570,Jalisco,0.649451496
+571,Jalisco,0
+572,Jalisco,0
+573,Jalisco,0
+574,Jalisco,0.613496933
+575,Jalisco,0
+576,Jalisco,0
+577,Jalisco,0.639795266
+578,Jalisco,0
+579,Jalisco,1.642036125
+580,Jalisco,0
+581,Jalisco,0
+582,Jalisco,0
+583,Jalisco,0
+584,Jalisco,0.676393854
+585,Jalisco,0
+586,Jalisco,1.478560867
+587,Jalisco,0
+588,Jalisco,0
+589,Jalisco,0
+590,Jalisco,0
+591,Jalisco,0
+592,Jalisco,2.429149798
+593,Jalisco,0
+594,Jalisco,0.396825397
+595,Jalisco,1.222992254
+596,Jalisco,0
+597,Jalisco,0.653381248
+598,Jalisco,0.400280196
+599,Jalisco,0
+600,Jalisco,2.444987775
+601,Jalisco,0.789800293
+602,Jalisco,0
+603,Jalisco,0
+604,Jalisco,0.487448209
+605,Jalisco,0
+606,Jalisco,0
+607,Jalisco,0
+608,Jalisco,0.582750583
+609,Jalisco,0
+610,Jalisco,0
+611,Jalisco,0
+612,Jalisco,0
+613,Jalisco,0.827472073
+614,Jalisco,0.193535901
+615,Jalisco,0
+616,Jalisco,0
+617,Jalisco,0
+618,Jalisco,0
+619,Jalisco,0.924214418
+620,Jalisco,0
+621,Jalisco,0
+622,Jalisco,0.439367311
+623,Jalisco,1.703577513
+624,Jalisco,0.345025877
+625,Jalisco,0.674991563
+626,Jalisco,0
+627,Jalisco,1.97044335
+628,Jalisco,0.381843349
+629,Jalisco,0.472515357
+630,Jalisco,1.430615165
+631,Jalisco,0.86918731
+632,Jalisco,0.45136538
+633,Jalisco,0
+634,Jalisco,0
+635,Jalisco,0
+636,Jalisco,0
+637,Jalisco,0
+638,Jalisco,0
+639,Jalisco,0
+640,Jalisco,0
+641,Jalisco,0
+642,Jalisco,0
+643,Jalisco,0
+644,Jalisco,0
+645,Jalisco,0
+646,Jalisco,0
+647,Jalisco,3.273322422
+648,Jalisco,0
+649,Jalisco,0
+650,Jalisco,2.111932418
+651,Jalisco,0.669996345
+652,Jalisco,0.634920635
+653,Jalisco,0
+654,Jalisco,0
+655,Jalisco,0
+656,Jalisco,1.092896175
+657,México,0.268528464
+658,México,1.290738948
+659,México,0
+660,México,1.941747573
+661,México,0.266122594
+662,México,1.314060447
+663,México,1.985440106
+664,México,0
+665,México,0.310655483
+666,México,0.874125874
+667,México,0.560538117
+668,México,0
+669,México,3.384094755
+670,México,0.306983883
+671,México,1.360544218
+672,México,0
+673,México,0
+674,México,0.651678071
+675,México,1.263423879
+676,México,1.526251526
+677,México,0.564971751
+678,México,1.305483029
+679,México,0.724112962
+680,México,0.348979236
+681,México,0.483455092
+682,México,0
+683,México,0
+684,México,1.165501166
+685,México,2.551612155
+686,México,1.564945227
+687,México,1.133496654
+688,México,0.419815281
+689,México,0.91030158
+690,México,3.231017771
+691,México,1.061571125
+692,México,1.17370892
+693,México,1.111897301
+694,México,5.434782609
+695,México,0.365385786
+696,México,0
+697,México,2.304147465
+698,México,0.795782354
+699,México,1.201201201
+700,México,1.555209953
+701,México,0.7537215
+702,México,0
+703,México,0
+704,México,1.080205239
+705,México,0
+706,México,0.660938533
+707,México,0.687757909
+708,México,0.971345313
+709,México,0.667111408
+710,México,0.180831826
+711,México,0
+712,México,0.504540868
+713,México,0.547968302
+714,México,0.811014347
+715,México,0
+716,México,1.647940075
+717,México,4.716981132
+718,México,0.578871201
+719,México,0
+720,México,0.452488688
+721,México,0.633312223
+722,México,0
+723,México,1.541307028
+724,México,0
+725,México,0
+726,México,1.343265356
+727,México,1.272264631
+728,México,0
+729,México,1.851851852
+730,México,0.505152556
+731,México,0.793650794
+732,México,0.556276655
+733,México,2.028397566
+734,México,1.672240803
+735,México,1.481481481
+736,México,1.224989792
+737,México,1.069310781
+738,México,0.46267736
+739,México,0
+740,México,2.032520325
+741,México,1.498800959
+742,México,0.388802488
+743,México,1.469045121
+744,México,0.844166807
+745,México,0
+746,México,0.678081031
+747,México,1.693002257
+748,México,0
+749,México,0
+750,México,0
+751,México,1.866832607
+752,México,1.858736059
+753,México,0.556483027
+754,México,0
+755,México,1.499659168
+756,México,1.917545542
+757,México,0.444247001
+758,México,0
+759,México,0.415282392
+760,México,1.009234496
+761,México,0
+762,México,0.579812
+763,México,0
+764,México,0.439367311
+765,México,1.704089816
+766,México,0.682283375
+767,México,0.559127761
+768,México,1.050052503
+769,México,0.422832981
+770,México,1.265022138
+771,México,0.354861604
+772,México,0
+773,México,2.487562189
+774,México,0.086775425
+775,México,0
+776,México,1.323724077
+777,México,2.042419482
+778,México,1.117759222
+779,México,1.130369254
+780,México,0.843051848
+781,México,0
+782,Michoacán de Ocampo,0
+783,Michoacán de Ocampo,0.882612533
+784,Michoacán de Ocampo,0.60132291
+785,Michoacán de Ocampo,0
+786,Michoacán de Ocampo,1.308900524
+787,Michoacán de Ocampo,0.664641094
+788,Michoacán de Ocampo,0
+789,Michoacán de Ocampo,2
+790,Michoacán de Ocampo,0.978473581
+791,Michoacán de Ocampo,1.679261125
+792,Michoacán de Ocampo,0
+793,Michoacán de Ocampo,0.56753689
+794,Michoacán de Ocampo,0
+795,Michoacán de Ocampo,0
+796,Michoacán de Ocampo,2.180232558
+797,Michoacán de Ocampo,1.077586207
+798,Michoacán de Ocampo,1.062134891
+799,Michoacán de Ocampo,0
+800,Michoacán de Ocampo,0
+801,Michoacán de Ocampo,0
+802,Michoacán de Ocampo,2.69541779
+803,Michoacán de Ocampo,0
+804,Michoacán de Ocampo,0
+805,Michoacán de Ocampo,0.645577792
+806,Michoacán de Ocampo,1.419950302
+807,Michoacán de Ocampo,0
+808,Michoacán de Ocampo,0
+809,Michoacán de Ocampo,0
+810,Michoacán de Ocampo,3.851091142
+811,Michoacán de Ocampo,1.515151515
+812,Michoacán de Ocampo,0
+813,Michoacán de Ocampo,2.134471718
+814,Michoacán de Ocampo,1.223990208
+815,Michoacán de Ocampo,0.525762355
+816,Michoacán de Ocampo,0.402738623
+817,Michoacán de Ocampo,1.483679525
+818,Michoacán de Ocampo,0
+819,Michoacán de Ocampo,0.358294518
+820,Michoacán de Ocampo,0
+821,Michoacán de Ocampo,0
+822,Michoacán de Ocampo,1.095290252
+823,Michoacán de Ocampo,0
+824,Michoacán de Ocampo,1.013171226
+825,Michoacán de Ocampo,1.945525292
+826,Michoacán de Ocampo,0.476644423
+827,Michoacán de Ocampo,0
+828,Michoacán de Ocampo,0.832639467
+829,Michoacán de Ocampo,3.267973856
+830,Michoacán de Ocampo,1.609010459
+831,Michoacán de Ocampo,0.526408142
+832,Michoacán de Ocampo,3.738317757
+833,Michoacán de Ocampo,0.663632916
+834,Michoacán de Ocampo,0.391969733
+835,Michoacán de Ocampo,0
+836,Michoacán de Ocampo,0.557880056
+837,Michoacán de Ocampo,2.819548872
+838,Michoacán de Ocampo,2.743484225
+839,Michoacán de Ocampo,0.873362445
+840,Michoacán de Ocampo,1.808318264
+841,Michoacán de Ocampo,0
+842,Michoacán de Ocampo,0.610873549
+843,Michoacán de Ocampo,0.606428138
+844,Michoacán de Ocampo,1.683501684
+845,Michoacán de Ocampo,1.100715465
+846,Michoacán de Ocampo,0.395100751
+847,Michoacán de Ocampo,0.449034576
+848,Michoacán de Ocampo,1.049317943
+849,Michoacán de Ocampo,0.68212824
+850,Michoacán de Ocampo,0.294594196
+851,Michoacán de Ocampo,0
+852,Michoacán de Ocampo,0.513742615
+853,Michoacán de Ocampo,0
+854,Michoacán de Ocampo,0.597371565
+855,Michoacán de Ocampo,1.594896332
+856,Michoacán de Ocampo,1.373626374
+857,Michoacán de Ocampo,0.660501982
+858,Michoacán de Ocampo,0
+859,Michoacán de Ocampo,0
+860,Michoacán de Ocampo,0.804936947
+861,Michoacán de Ocampo,0
+862,Michoacán de Ocampo,0
+863,Michoacán de Ocampo,0.347161951
+864,Michoacán de Ocampo,2.946375958
+865,Michoacán de Ocampo,0.452898551
+866,Michoacán de Ocampo,0.427899016
+867,Michoacán de Ocampo,0
+868,Michoacán de Ocampo,0
+869,Michoacán de Ocampo,1.250260471
+870,Michoacán de Ocampo,0.858369099
+871,Michoacán de Ocampo,0
+872,Michoacán de Ocampo,2.512562814
+873,Michoacán de Ocampo,2.386634845
+874,Michoacán de Ocampo,0.689655172
+875,Michoacán de Ocampo,2.770083102
+876,Michoacán de Ocampo,0
+877,Michoacán de Ocampo,0
+878,Michoacán de Ocampo,0.416146484
+879,Michoacán de Ocampo,0.557413601
+880,Michoacán de Ocampo,1.164144354
+881,Michoacán de Ocampo,1.068376068
+882,Michoacán de Ocampo,0
+883,Michoacán de Ocampo,0.227738556
+884,Michoacán de Ocampo,0
+885,Michoacán de Ocampo,0
+886,Michoacán de Ocampo,0
+887,Michoacán de Ocampo,0.9765625
+888,Michoacán de Ocampo,0
+889,Michoacán de Ocampo,0.283828851
+890,Michoacán de Ocampo,0
+891,Michoacán de Ocampo,1.302931596
+892,Michoacán de Ocampo,0
+893,Michoacán de Ocampo,1.165501166
+894,Michoacán de Ocampo,0.754716981
+895,Morelos,1.499250375
+896,Morelos,0
+897,Morelos,1.137656428
+898,Morelos,1.031565917
+899,Morelos,0
+900,Morelos,0.19438235
+901,Morelos,0.536789234
+902,Morelos,0.441014333
+903,Morelos,0
+904,Morelos,0
+905,Morelos,0.437905062
+906,Morelos,1.038152089
+907,Morelos,2.227171492
+908,Morelos,0
+909,Morelos,0.565291125
+910,Morelos,0.848176421
+911,Morelos,1.008471158
+912,Morelos,0.480615187
+913,Morelos,0.639386189
+914,Morelos,0.562113547
+915,Morelos,0
+916,Morelos,0
+917,Morelos,0
+918,Morelos,0
+919,Morelos,0
+920,Morelos,0.965250965
+921,Morelos,0
+922,Morelos,0.260145682
+923,Morelos,0.835701153
+924,Morelos,0.338524035
+925,Morelos,0.852878465
+926,Morelos,0
+927,Morelos,0
+928,Nayarit,0.370919881
+929,Nayarit,0
+930,Nayarit,0
+931,Nayarit,0.59618442
+932,Nayarit,3.285870756
+933,Nayarit,1.439539347
+934,Nayarit,1.200480192
+935,Nayarit,0.859845228
+936,Nayarit,3.272251309
+937,Nayarit,0.380517504
+938,Nayarit,0.557103064
+939,Nayarit,0
+940,Nayarit,0
+941,Nayarit,0
+942,Nayarit,0.288892099
+943,Nayarit,0
+944,Nayarit,0.29608185
+945,Nayarit,0
+946,Nayarit,0
+947,Nayarit,0.127226463
+948,Nuevo León,0
+949,Nuevo León,0
+950,Nuevo León,0
+951,Nuevo León,0
+952,Nuevo León,0
+953,Nuevo León,0.503862949
+954,Nuevo León,0
+955,Nuevo León,0
+956,Nuevo León,0
+957,Nuevo León,0
+958,Nuevo León,0
+959,Nuevo León,0.595238095
+960,Nuevo León,0
+961,Nuevo León,0
+962,Nuevo León,0
+963,Nuevo León,5.376344086
+964,Nuevo León,0.377073906
+965,Nuevo León,0.837871806
+966,Nuevo León,0
+967,Nuevo León,0
+968,Nuevo León,0.608710088
+969,Nuevo León,0
+970,Nuevo León,0
+971,Nuevo León,0
+972,Nuevo León,0.483091787
+973,Nuevo León,0.482991789
+974,Nuevo León,0
+975,Nuevo León,0
+976,Nuevo León,2.93255132
+977,Nuevo León,0
+978,Nuevo León,0.411725955
+979,Nuevo León,0
+980,Nuevo León,0.559284116
+981,Nuevo León,0
+982,Nuevo León,0
+983,Nuevo León,0
+984,Nuevo León,0
+985,Nuevo León,0
+986,Nuevo León,0.387101769
+987,Nuevo León,0
+988,Nuevo León,0
+989,Nuevo León,0
+990,Nuevo León,0
+991,Nuevo León,0
+992,Nuevo León,0.51072523
+993,Nuevo León,0.124851739
+994,Nuevo León,0
+995,Nuevo León,0.481386393
+996,Nuevo León,0
+997,Nuevo León,11.76470588
+998,Nuevo León,0
+999,Oaxaca,0
+1000,Oaxaca,0.536480687
+1001,Oaxaca,0
+1002,Oaxaca,0
+1003,Oaxaca,1.642036125
+1004,Oaxaca,0.546448087
+1005,Oaxaca,0
+1006,Oaxaca,0
+1007,Oaxaca,9.090909091
+1008,Oaxaca,0
+1009,Oaxaca,0
+1010,Oaxaca,2.528445006
+1011,Oaxaca,0
+1012,Oaxaca,1.209189843
+1013,Oaxaca,0
+1014,Oaxaca,7.692307692
+1015,Oaxaca,0
+1016,Oaxaca,0
+1017,Oaxaca,0
+1018,Oaxaca,0
+1019,Oaxaca,0
+1020,Oaxaca,0
+1021,Oaxaca,0
+1022,Oaxaca,0
+1023,Oaxaca,1.404494382
+1024,Oaxaca,2.114164905
+1025,Oaxaca,10.1010101
+1026,Oaxaca,1.366120219
+1027,Oaxaca,3.745318352
+1028,Oaxaca,2.551020408
+1029,Oaxaca,2.398081535
+1030,Oaxaca,0
+1031,Oaxaca,0
+1032,Oaxaca,0
+1033,Oaxaca,0
+1034,Oaxaca,0
+1035,Oaxaca,0
+1036,Oaxaca,0
+1037,Oaxaca,0
+1038,Oaxaca,7.90513834
+1039,Oaxaca,2.071465562
+1040,Oaxaca,1.672240803
+1041,Oaxaca,0.316455696
+1042,Oaxaca,0.99950025
+1043,Oaxaca,0
+1044,Oaxaca,0
+1045,Oaxaca,0
+1046,Oaxaca,23.80952381
+1047,Oaxaca,0
+1048,Oaxaca,0
+1049,Oaxaca,0
+1050,Oaxaca,0
+1051,Oaxaca,0
+1052,Oaxaca,0
+1053,Oaxaca,0
+1054,Oaxaca,0
+1055,Oaxaca,1.901140684
+1056,Oaxaca,0
+1057,Oaxaca,0.427715997
+1058,Oaxaca,0
+1059,Oaxaca,0
+1060,Oaxaca,0
+1061,Oaxaca,0
+1062,Oaxaca,0
+1063,Oaxaca,0
+1064,Oaxaca,0
+1065,Oaxaca,0.292098729
+1066,Oaxaca,0
+1067,Oaxaca,0
+1068,Oaxaca,0
+1069,Oaxaca,5.780346821
+1070,Oaxaca,2.293577982
+1071,Oaxaca,0.363901019
+1072,Oaxaca,0
+1073,Oaxaca,0
+1074,Oaxaca,0
+1075,Oaxaca,0
+1076,Oaxaca,0
+1077,Oaxaca,0.323729362
+1078,Oaxaca,0
+1079,Oaxaca,0
+1080,Oaxaca,6.060606061
+1081,Oaxaca,1.642036125
+1082,Oaxaca,0
+1083,Oaxaca,4.282655246
+1084,Oaxaca,0
+1085,Oaxaca,0
+1086,Oaxaca,0
+1087,Oaxaca,0
+1088,Oaxaca,0
+1089,Oaxaca,0
+1090,Oaxaca,0
+1091,Oaxaca,0
+1092,Oaxaca,0
+1093,Oaxaca,0
+1094,Oaxaca,0
+1095,Oaxaca,25
+1096,Oaxaca,0
+1097,Oaxaca,0
+1098,Oaxaca,0
+1099,Oaxaca,0
+1100,Oaxaca,0
+1101,Oaxaca,0
+1102,Oaxaca,0
+1103,Oaxaca,2.597402597
+1104,Oaxaca,0
+1105,Oaxaca,0
+1106,Oaxaca,0
+1107,Oaxaca,0
+1108,Oaxaca,0
+1109,Oaxaca,3.968253968
+1110,Oaxaca,0
+1111,Oaxaca,0
+1112,Oaxaca,0
+1113,Oaxaca,1.908396947
+1114,Oaxaca,3.067484663
+1115,Oaxaca,0
+1116,Oaxaca,8.547008547
+1117,Oaxaca,0
+1118,Oaxaca,0
+1119,Oaxaca,0
+1120,Oaxaca,0
+1121,Oaxaca,0
+1122,Oaxaca,1.962708538
+1123,Oaxaca,3.891050584
+1124,Oaxaca,0
+1125,Oaxaca,16.66666667
+1126,Oaxaca,0
+1127,Oaxaca,0
+1128,Oaxaca,0
+1129,Oaxaca,3.034901366
+1130,Oaxaca,0
+1131,Oaxaca,4.524886878
+1132,Oaxaca,0.766283525
+1133,Oaxaca,0
+1134,Oaxaca,0
+1135,Oaxaca,8.196721311
+1136,Oaxaca,0
+1137,Oaxaca,0
+1138,Oaxaca,0
+1139,Oaxaca,0
+1140,Oaxaca,0
+1141,Oaxaca,0
+1142,Oaxaca,0
+1143,Oaxaca,0
+1144,Oaxaca,0
+1145,Oaxaca,0
+1146,Oaxaca,47.61904762
+1147,Oaxaca,0
+1148,Oaxaca,0
+1149,Oaxaca,0
+1150,Oaxaca,0
+1151,Oaxaca,0
+1152,Oaxaca,0
+1153,Oaxaca,0
+1154,Oaxaca,4.424778761
+1155,Oaxaca,0
+1156,Oaxaca,0
+1157,Oaxaca,0
+1158,Oaxaca,0
+1159,Oaxaca,0
+1160,Oaxaca,0
+1161,Oaxaca,0
+1162,Oaxaca,0
+1163,Oaxaca,0
+1164,Oaxaca,0
+1165,Oaxaca,10.75268817
+1166,Oaxaca,0
+1167,Oaxaca,0
+1168,Oaxaca,0
+1169,Oaxaca,5.841121495
+1170,Oaxaca,0
+1171,Oaxaca,0
+1172,Oaxaca,0
+1173,Oaxaca,0
+1174,Oaxaca,0
+1175,Oaxaca,0
+1176,Oaxaca,0
+1177,Oaxaca,0
+1178,Oaxaca,0
+1179,Oaxaca,0
+1180,Oaxaca,0
+1181,Oaxaca,0
+1182,Oaxaca,0.534687876
+1183,Oaxaca,0
+1184,Oaxaca,0
+1185,Oaxaca,0
+1186,Oaxaca,0
+1187,Oaxaca,0
+1188,Oaxaca,2.53164557
+1189,Oaxaca,0
+1190,Oaxaca,0
+1191,Oaxaca,0
+1192,Oaxaca,0
+1193,Oaxaca,0
+1194,Oaxaca,0
+1195,Oaxaca,0
+1196,Oaxaca,2.727272727
+1197,Oaxaca,0
+1198,Oaxaca,0
+1199,Oaxaca,13.88888889
+1200,Oaxaca,0
+1201,Oaxaca,0
+1202,Oaxaca,0
+1203,Oaxaca,9.900990099
+1204,Oaxaca,0
+1205,Oaxaca,1.453488372
+1206,Oaxaca,5
+1207,Oaxaca,0
+1208,Oaxaca,0
+1209,Oaxaca,13.88888889
+1210,Oaxaca,0
+1211,Oaxaca,0
+1212,Oaxaca,0
+1213,Oaxaca,0
+1214,Oaxaca,0
+1215,Oaxaca,0
+1216,Oaxaca,0
+1217,Oaxaca,0
+1218,Oaxaca,5.617977528
+1219,Oaxaca,0
+1220,Oaxaca,0
+1221,Oaxaca,0
+1222,Oaxaca,0
+1223,Oaxaca,0
+1224,Oaxaca,0
+1225,Oaxaca,1.584786054
+1226,Oaxaca,0
+1227,Oaxaca,3.516998828
+1228,Oaxaca,0
+1229,Oaxaca,0
+1230,Oaxaca,3.067484663
+1231,Oaxaca,0
+1232,Oaxaca,0
+1233,Oaxaca,8.333333333
+1234,Oaxaca,29.41176471
+1235,Oaxaca,0
+1236,Oaxaca,0
+1237,Oaxaca,0
+1238,Oaxaca,0
+1239,Oaxaca,0
+1240,Oaxaca,7.481296758
+1241,Oaxaca,0
+1242,Oaxaca,0
+1243,Oaxaca,10.86956522
+1244,Oaxaca,0
+1245,Oaxaca,0
+1246,Oaxaca,0
+1247,Oaxaca,0
+1248,Oaxaca,0
+1249,Oaxaca,0
+1250,Oaxaca,0
+1251,Oaxaca,0
+1252,Oaxaca,0
+1253,Oaxaca,12.98701299
+1254,Oaxaca,0
+1255,Oaxaca,0
+1256,Oaxaca,0
+1257,Oaxaca,0
+1258,Oaxaca,0
+1259,Oaxaca,0
+1260,Oaxaca,0
+1261,Oaxaca,0
+1262,Oaxaca,7.874015748
+1263,Oaxaca,0
+1264,Oaxaca,0
+1265,Oaxaca,0
+1266,Oaxaca,0
+1267,Oaxaca,0
+1268,Oaxaca,0
+1269,Oaxaca,0
+1270,Oaxaca,0
+1271,Oaxaca,0
+1272,Oaxaca,0
+1273,Oaxaca,7.782101167
+1274,Oaxaca,0
+1275,Oaxaca,1.893939394
+1276,Oaxaca,2.595717067
+1277,Oaxaca,0
+1278,Oaxaca,0
+1279,Oaxaca,0
+1280,Oaxaca,0
+1281,Oaxaca,0
+1282,Oaxaca,0
+1283,Oaxaca,6.944444444
+1284,Oaxaca,0
+1285,Oaxaca,0
+1286,Oaxaca,0
+1287,Oaxaca,0
+1288,Oaxaca,0
+1289,Oaxaca,0
+1290,Oaxaca,0
+1291,Oaxaca,0
+1292,Oaxaca,0
+1293,Oaxaca,3.25732899
+1294,Oaxaca,0
+1295,Oaxaca,0
+1296,Oaxaca,1.317523057
+1297,Oaxaca,0
+1298,Oaxaca,0
+1299,Oaxaca,0
+1300,Oaxaca,0
+1301,Oaxaca,0
+1302,Oaxaca,0
+1303,Oaxaca,0
+1304,Oaxaca,7.518796992
+1305,Oaxaca,1.972386588
+1306,Oaxaca,0
+1307,Oaxaca,3.968253968
+1308,Oaxaca,0
+1309,Oaxaca,0
+1310,Oaxaca,0
+1311,Oaxaca,0
+1312,Oaxaca,0
+1313,Oaxaca,0
+1314,Oaxaca,0
+1315,Oaxaca,0
+1316,Oaxaca,0.267379679
+1317,Oaxaca,0
+1318,Oaxaca,0
+1319,Oaxaca,0
+1320,Oaxaca,0
+1321,Oaxaca,8.196721311
+1322,Oaxaca,0.761035008
+1323,Oaxaca,1.76056338
+1324,Oaxaca,10.58201058
+1325,Oaxaca,1.19047619
+1326,Oaxaca,0
+1327,Oaxaca,0
+1328,Oaxaca,6.097560976
+1329,Oaxaca,0
+1330,Oaxaca,0
+1331,Oaxaca,0
+1332,Oaxaca,0.369822485
+1333,Oaxaca,0
+1334,Oaxaca,0
+1335,Oaxaca,2.770083102
+1336,Oaxaca,0
+1337,Oaxaca,0
+1338,Oaxaca,0
+1339,Oaxaca,0
+1340,Oaxaca,0
+1341,Oaxaca,0
+1342,Oaxaca,8.333333333
+1343,Oaxaca,0
+1344,Oaxaca,0
+1345,Oaxaca,6.329113924
+1346,Oaxaca,3.134796238
+1347,Oaxaca,0
+1348,Oaxaca,0
+1349,Oaxaca,0
+1350,Oaxaca,0
+1351,Oaxaca,0
+1352,Oaxaca,0
+1353,Oaxaca,0
+1354,Oaxaca,0
+1355,Oaxaca,0
+1356,Oaxaca,0
+1357,Oaxaca,45.45454545
+1358,Oaxaca,0
+1359,Oaxaca,0
+1360,Oaxaca,0
+1361,Oaxaca,0
+1362,Oaxaca,0
+1363,Oaxaca,0
+1364,Oaxaca,0
+1365,Oaxaca,0
+1366,Oaxaca,0
+1367,Oaxaca,0
+1368,Oaxaca,0
+1369,Oaxaca,0
+1370,Oaxaca,0
+1371,Oaxaca,0
+1372,Oaxaca,0
+1373,Oaxaca,0
+1374,Oaxaca,0
+1375,Oaxaca,1.779359431
+1376,Oaxaca,0
+1377,Oaxaca,0
+1378,Oaxaca,0
+1379,Oaxaca,0
+1380,Oaxaca,0
+1381,Oaxaca,0
+1382,Oaxaca,0
+1383,Oaxaca,0.946431952
+1384,Oaxaca,3.06122449
+1385,Oaxaca,0
+1386,Oaxaca,0
+1387,Oaxaca,0
+1388,Oaxaca,1.190948789
+1389,Oaxaca,0
+1390,Oaxaca,5.221932115
+1391,Oaxaca,0
+1392,Oaxaca,0
+1393,Oaxaca,0
+1394,Oaxaca,0
+1395,Oaxaca,0.459136823
+1396,Oaxaca,0
+1397,Oaxaca,1.699716714
+1398,Oaxaca,0
+1399,Oaxaca,1.396648045
+1400,Oaxaca,0
+1401,Oaxaca,0
+1402,Oaxaca,0
+1403,Oaxaca,0
+1404,Oaxaca,3.649635036
+1405,Oaxaca,0
+1406,Oaxaca,0
+1407,Oaxaca,0
+1408,Oaxaca,0
+1409,Oaxaca,0
+1410,Oaxaca,0
+1411,Oaxaca,0.857387825
+1412,Oaxaca,0
+1413,Oaxaca,0
+1414,Oaxaca,50
+1415,Oaxaca,2.506265664
+1416,Oaxaca,1.406469761
+1417,Oaxaca,29.41176471
+1418,Oaxaca,0
+1419,Oaxaca,0
+1420,Oaxaca,0
+1421,Oaxaca,0
+1422,Oaxaca,33.33333333
+1423,Oaxaca,0
+1424,Oaxaca,0
+1425,Oaxaca,0
+1426,Oaxaca,0
+1427,Oaxaca,0
+1428,Oaxaca,0
+1429,Oaxaca,0
+1430,Oaxaca,0
+1431,Oaxaca,10.81081081
+1432,Oaxaca,0
+1433,Oaxaca,0
+1434,Oaxaca,0
+1435,Oaxaca,6.048387097
+1436,Oaxaca,11.23595506
+1437,Oaxaca,0.946073794
+1438,Oaxaca,0
+1439,Oaxaca,5.263157895
+1440,Oaxaca,0
+1441,Oaxaca,0
+1442,Oaxaca,0
+1443,Oaxaca,0
+1444,Oaxaca,0
+1445,Oaxaca,0.877963126
+1446,Oaxaca,23.80952381
+1447,Oaxaca,0
+1448,Oaxaca,4.69924812
+1449,Oaxaca,0
+1450,Oaxaca,5.813953488
+1451,Oaxaca,0
+1452,Oaxaca,15.15151515
+1453,Oaxaca,0
+1454,Oaxaca,0
+1455,Oaxaca,0
+1456,Oaxaca,0
+1457,Oaxaca,0
+1458,Oaxaca,0
+1459,Oaxaca,0
+1460,Oaxaca,0
+1461,Oaxaca,100
+1462,Oaxaca,0
+1463,Oaxaca,0
+1464,Oaxaca,8.503401361
+1465,Oaxaca,0.787401575
+1466,Oaxaca,0
+1467,Oaxaca,2.156721783
+1468,Oaxaca,6.535947712
+1469,Oaxaca,0
+1470,Oaxaca,6.944444444
+1471,Oaxaca,17.24137931
+1472,Oaxaca,7.142857143
+1473,Oaxaca,0
+1474,Oaxaca,0
+1475,Oaxaca,0
+1476,Oaxaca,0
+1477,Oaxaca,0
+1478,Oaxaca,0
+1479,Oaxaca,0
+1480,Oaxaca,1.289075089
+1481,Oaxaca,0
+1482,Oaxaca,0
+1483,Oaxaca,0
+1484,Oaxaca,0
+1485,Oaxaca,0
+1486,Oaxaca,0
+1487,Oaxaca,0
+1488,Oaxaca,0
+1489,Oaxaca,6.493506494
+1490,Oaxaca,0
+1491,Oaxaca,0
+1492,Oaxaca,0
+1493,Oaxaca,0
+1494,Oaxaca,0
+1495,Oaxaca,0
+1496,Oaxaca,2.89017341
+1497,Oaxaca,0
+1498,Oaxaca,2.036659878
+1499,Oaxaca,0
+1500,Oaxaca,0
+1501,Oaxaca,0
+1502,Oaxaca,0
+1503,Oaxaca,0
+1504,Oaxaca,0
+1505,Oaxaca,0
+1506,Oaxaca,0
+1507,Oaxaca,0
+1508,Oaxaca,0
+1509,Oaxaca,0
+1510,Oaxaca,43.47826087
+1511,Oaxaca,2.262443439
+1512,Oaxaca,0
+1513,Oaxaca,0
+1514,Oaxaca,2.604166667
+1515,Oaxaca,3.03030303
+1516,Oaxaca,0
+1517,Oaxaca,0
+1518,Oaxaca,0
+1519,Oaxaca,0
+1520,Oaxaca,0
+1521,Oaxaca,0
+1522,Oaxaca,0
+1523,Oaxaca,0
+1524,Oaxaca,0
+1525,Oaxaca,5.154639175
+1526,Oaxaca,0
+1527,Oaxaca,8.474576271
+1528,Oaxaca,0
+1529,Oaxaca,0
+1530,Oaxaca,0
+1531,Oaxaca,0
+1532,Oaxaca,0
+1533,Oaxaca,0
+1534,Oaxaca,0
+1535,Oaxaca,0
+1536,Oaxaca,0
+1537,Oaxaca,0
+1538,Oaxaca,0
+1539,Oaxaca,0
+1540,Oaxaca,0
+1541,Oaxaca,7.407407407
+1542,Oaxaca,0
+1543,Oaxaca,0
+1544,Oaxaca,0
+1545,Oaxaca,0
+1546,Oaxaca,0
+1547,Oaxaca,0
+1548,Oaxaca,0
+1549,Oaxaca,1.145475372
+1550,Oaxaca,0
+1551,Oaxaca,0
+1552,Oaxaca,0
+1553,Oaxaca,0
+1554,Oaxaca,0
+1555,Oaxaca,0
+1556,Oaxaca,0
+1557,Oaxaca,0
+1558,Oaxaca,0
+1559,Oaxaca,0
+1560,Oaxaca,0
+1561,Oaxaca,0
+1562,Oaxaca,0
+1563,Oaxaca,0
+1564,Oaxaca,0
+1565,Oaxaca,0
+1566,Oaxaca,0
+1567,Oaxaca,0
+1568,Oaxaca,0.712758375
+1569,Puebla,0.860585198
+1570,Puebla,3.514938489
+1571,Puebla,1.257334451
+1572,Puebla,1.088435374
+1573,Puebla,0
+1574,Puebla,1.037344398
+1575,Puebla,0
+1576,Puebla,1.261034048
+1577,Puebla,0
+1578,Puebla,2.97000297
+1579,Puebla,0
+1580,Puebla,0
+1581,Puebla,0
+1582,Puebla,7.518796992
+1583,Puebla,1.042481105
+1584,Puebla,1.992031873
+1585,Puebla,0.462320851
+1586,Puebla,0
+1587,Puebla,0.539083558
+1588,Puebla,0
+1589,Puebla,0
+1590,Puebla,0
+1591,Puebla,0
+1592,Puebla,0
+1593,Puebla,0
+1594,Puebla,1.560062402
+1595,Puebla,5.154639175
+1596,Puebla,0
+1597,Puebla,0
+1598,Puebla,0
+1599,Puebla,0
+1600,Puebla,0
+1601,Puebla,0
+1602,Puebla,0.527704485
+1603,Puebla,0.769822941
+1604,Puebla,5.780346821
+1605,Puebla,0
+1606,Puebla,0
+1607,Puebla,3.787878788
+1608,Puebla,0
+1609,Puebla,1.234186979
+1610,Puebla,0
+1611,Puebla,0.798934754
+1612,Puebla,0
+1613,Puebla,0
+1614,Puebla,0
+1615,Puebla,0
+1616,Puebla,0
+1617,Puebla,3.861003861
+1618,Puebla,0.999000999
+1619,Puebla,0
+1620,Puebla,0
+1621,Puebla,0.399680256
+1622,Puebla,0.866551127
+1623,Puebla,4.132231405
+1624,Puebla,0
+1625,Puebla,0
+1626,Puebla,3.006012024
+1627,Puebla,0
+1628,Puebla,0
+1629,Puebla,3.824091778
+1630,Puebla,0
+1631,Puebla,0
+1632,Puebla,1.239157373
+1633,Puebla,0
+1634,Puebla,0
+1635,Puebla,0.864304235
+1636,Puebla,0
+1637,Puebla,1.386962552
+1638,Puebla,0
+1639,Puebla,0.371195249
+1640,Puebla,0
+1641,Puebla,0
+1642,Puebla,1.129092962
+1643,Puebla,0.933706816
+1644,Puebla,0
+1645,Puebla,0
+1646,Puebla,0
+1647,Puebla,4.716981132
+1648,Puebla,0
+1649,Puebla,0
+1650,Puebla,0
+1651,Puebla,0
+1652,Puebla,0
+1653,Puebla,0.72503172
+1654,Puebla,1.406469761
+1655,Puebla,0
+1656,Puebla,2.865329513
+1657,Puebla,1.269035533
+1658,Puebla,0
+1659,Puebla,0
+1660,Puebla,0
+1661,Puebla,2.427184466
+1662,Puebla,0.42973786
+1663,Puebla,0
+1664,Puebla,0
+1665,Puebla,0
+1666,Puebla,0
+1667,Puebla,0
+1668,Puebla,0
+1669,Puebla,0
+1670,Puebla,0
+1671,Puebla,0
+1672,Puebla,1.105583195
+1673,Puebla,0
+1674,Puebla,0
+1675,Puebla,1.597444089
+1676,Puebla,0
+1677,Puebla,0
+1678,Puebla,0.863557858
+1679,Puebla,1.839926403
+1680,Puebla,1.811594203
+1681,Puebla,0
+1682,Puebla,0.386939048
+1683,Puebla,0.906618314
+1684,Puebla,3.264417845
+1685,Puebla,0
+1686,Puebla,0.619578686
+1687,Puebla,0.450045005
+1688,Puebla,4.329004329
+1689,Puebla,0
+1690,Puebla,0
+1691,Puebla,0
+1692,Puebla,0
+1693,Puebla,0
+1694,Puebla,4.366812227
+1695,Puebla,0
+1696,Puebla,0
+1697,Puebla,1.422475107
+1698,Puebla,4.716981132
+1699,Puebla,0
+1700,Puebla,0.681353623
+1701,Puebla,0
+1702,Puebla,0.871839582
+1703,Puebla,0
+1704,Puebla,0
+1705,Puebla,1.490312966
+1706,Puebla,0
+1707,Puebla,0
+1708,Puebla,0.938086304
+1709,Puebla,0
+1710,Puebla,0.53390283
+1711,Puebla,1.163467132
+1712,Puebla,0.828500414
+1713,Puebla,3.738317757
+1714,Puebla,0
+1715,Puebla,0
+1716,Puebla,0
+1717,Puebla,2.093510119
+1718,Puebla,3.521126761
+1719,Puebla,2.976190476
+1720,Puebla,1.351351351
+1721,Puebla,1.038421599
+1722,Puebla,0.913659205
+1723,Puebla,0
+1724,Puebla,0.524714031
+1725,Puebla,1.402524544
+1726,Puebla,0
+1727,Puebla,6.578947368
+1728,Puebla,0
+1729,Puebla,2.281368821
+1730,Puebla,0
+1731,Puebla,2.27014756
+1732,Puebla,2.232765839
+1733,Puebla,0
+1734,Puebla,0
+1735,Puebla,0
+1736,Puebla,0
+1737,Puebla,1.447178003
+1738,Puebla,0.825082508
+1739,Puebla,0
+1740,Puebla,1.532175689
+1741,Puebla,0
+1742,Puebla,0.456273764
+1743,Puebla,0
+1744,Puebla,0
+1745,Puebla,0.919117647
+1746,Puebla,2.10748156
+1747,Puebla,0.547345375
+1748,Puebla,2.194907814
+1749,Puebla,0
+1750,Puebla,0
+1751,Puebla,0.613120785
+1752,Puebla,0
+1753,Puebla,0
+1754,Puebla,0
+1755,Puebla,6.389776358
+1756,Puebla,1.788908766
+1757,Puebla,0.894454383
+1758,Puebla,0
+1759,Puebla,1.406469761
+1760,Puebla,2.88184438
+1761,Puebla,0
+1762,Puebla,0
+1763,Puebla,3.300330033
+1764,Puebla,0
+1765,Puebla,0.48820179
+1766,Puebla,0
+1767,Puebla,2.204261572
+1768,Puebla,0
+1769,Puebla,0
+1770,Puebla,1.118568233
+1771,Puebla,4.048582996
+1772,Puebla,0
+1773,Puebla,0.630517024
+1774,Puebla,0
+1775,Puebla,0.731350561
+1776,Puebla,0.798722045
+1777,Puebla,0
+1778,Puebla,0
+1779,Puebla,0.876424189
+1780,Puebla,2.050580998
+1781,Puebla,0
+1782,Puebla,0
+1783,Puebla,0
+1784,Puebla,0
+1785,Puebla,4.415011038
+1786,Querétaro,1.02817191
+1787,Querétaro,0.836470096
+1788,Querétaro,0
+1789,Querétaro,0.366367467
+1790,Querétaro,0.636132316
+1791,Querétaro,0.238492726
+1792,Querétaro,0.681431005
+1793,Querétaro,0.383288616
+1794,Querétaro,0
+1795,Querétaro,0
+1796,Querétaro,0.125297582
+1797,Querétaro,0.212224109
+1798,Querétaro,0
+1799,Querétaro,0.291004329
+1800,Querétaro,0
+1801,Querétaro,0.59955306
+1802,Querétaro,0.478927203
+1803,Querétaro,0
+1804,Quintana Roo,0.188005264
+1805,Quintana Roo,0.803697006
+1806,Quintana Roo,1.700680272
+1807,Quintana Roo,0.266010507
+1808,Quintana Roo,0.680933852
+1809,Quintana Roo,1.321877065
+1810,Quintana Roo,0
+1811,Quintana Roo,0.837240455
+1812,Quintana Roo,1.584786054
+1813,San Luis Potosí,0
+1814,San Luis Potosí,0
+1815,San Luis Potosí,0.569476082
+1816,San Luis Potosí,0
+1817,San Luis Potosí,0
+1818,San Luis Potosí,0
+1819,San Luis Potosí,2.741603838
+1820,San Luis Potosí,0.821018062
+1821,San Luis Potosí,0
+1822,San Luis Potosí,0
+1823,San Luis Potosí,0.689417442
+1824,San Luis Potosí,0.804505229
+1825,San Luis Potosí,0.427761737
+1826,San Luis Potosí,1.048218029
+1827,San Luis Potosí,1.31147541
+1828,San Luis Potosí,0.394788788
+1829,San Luis Potosí,0.558035714
+1830,San Luis Potosí,1.004016064
+1831,San Luis Potosí,3.496503497
+1832,San Luis Potosí,0.136388434
+1833,San Luis Potosí,0.26816841
+1834,San Luis Potosí,1.49142431
+1835,San Luis Potosí,0
+1836,San Luis Potosí,0.619674671
+1837,San Luis Potosí,0.395882819
+1838,San Luis Potosí,0
+1839,San Luis Potosí,0
+1840,San Luis Potosí,0.550832236
+1841,San Luis Potosí,0
+1842,San Luis Potosí,4.347826087
+1843,San Luis Potosí,4.103967168
+1844,San Luis Potosí,0.393236335
+1845,San Luis Potosí,2.865329513
+1846,San Luis Potosí,0
+1847,San Luis Potosí,0.51457976
+1848,San Luis Potosí,0.593824228
+1849,San Luis Potosí,0.540832883
+1850,San Luis Potosí,0
+1851,San Luis Potosí,1.356852103
+1852,San Luis Potosí,0.457247371
+1853,San Luis Potosí,0.963391137
+1854,San Luis Potosí,0
+1855,San Luis Potosí,0
+1856,San Luis Potosí,0
+1857,San Luis Potosí,0
+1858,San Luis Potosí,0
+1859,San Luis Potosí,0
+1860,San Luis Potosí,0
+1861,San Luis Potosí,1.008064516
+1862,San Luis Potosí,0.84198709
+1863,San Luis Potosí,1.140250855
+1864,San Luis Potosí,3.577817531
+1865,San Luis Potosí,0.912825194
+1866,San Luis Potosí,1.016604541
+1867,San Luis Potosí,3.006614552
+1868,San Luis Potosí,0.809061489
+1869,San Luis Potosí,0
+1870,San Luis Potosí,0
+1871,Sinaloa,0.263123273
+1872,Sinaloa,0.383582662
+1873,Sinaloa,0.841396719
+1874,Sinaloa,0
+1875,Sinaloa,0
+1876,Sinaloa,0.205095149
+1877,Sinaloa,0.393391031
+1878,Sinaloa,0.239635754
+1879,Sinaloa,0.546746856
+1880,Sinaloa,0.757575758
+1881,Sinaloa,0.284711018
+1882,Sinaloa,0.334974709
+1883,Sinaloa,0.726744186
+1884,Sinaloa,1.680201624
+1885,Sinaloa,0.181389443
+1886,Sinaloa,0
+1887,Sinaloa,0.349344978
+1888,Sinaloa,0.462705904
+1889,Sonora,0
+1890,Sonora,0.549148819
+1891,Sonora,1.757469244
+1892,Sonora,0
+1893,Sonora,0
+1894,Sonora,0
+1895,Sonora,0
+1896,Sonora,0
+1897,Sonora,0
+1898,Sonora,0
+1899,Sonora,0
+1900,Sonora,1.071811361
+1901,Sonora,0
+1902,Sonora,0
+1903,Sonora,0
+1904,Sonora,3.424657534
+1905,Sonora,0
+1906,Sonora,0.338428563
+1907,Sonora,0.479156684
+1908,Sonora,0
+1909,Sonora,0
+1910,Sonora,0
+1911,Sonora,0
+1912,Sonora,0
+1913,Sonora,0.635930048
+1914,Sonora,0.539374326
+1915,Sonora,0
+1916,Sonora,0
+1917,Sonora,0.363240102
+1918,Sonora,0.340497126
+1919,Sonora,0
+1920,Sonora,0
+1921,Sonora,0.400560785
+1922,Sonora,0
+1923,Sonora,1.280409731
+1924,Sonora,0.473709143
+1925,Sonora,0
+1926,Sonora,0
+1927,Sonora,3.95256917
+1928,Sonora,0
+1929,Sonora,0
+1930,Sonora,0.569584204
+1931,Sonora,0.495202724
+1932,Sonora,0
+1933,Sonora,0
+1934,Sonora,52.63157895
+1935,Sonora,0
+1936,Sonora,0.24230676
+1937,Sonora,5.780346821
+1938,Sonora,0
+1939,Sonora,0
+1940,Sonora,6.944444444
+1941,Sonora,0
+1942,Sonora,0
+1943,Sonora,0.858737656
+1944,Sonora,1.31061599
+1945,Sonora,0
+1946,Sonora,0
+1947,Sonora,0
+1948,Sonora,0
+1949,Sonora,0
+1950,Sonora,16.94915254
+1951,Sonora,0
+1952,Sonora,0
+1953,Sonora,0
+1954,Sonora,0
+1955,Sonora,0
+1956,Sonora,0
+1957,Sonora,0
+1958,Sonora,0
+1959,Sonora,1.945525292
+1960,Sonora,0
+1961,Tabasco,0.962927299
+1962,Tabasco,0.36102945
+1963,Tabasco,0.403822856
+1964,Tabasco,0.52257105
+1965,Tabasco,0.606520091
+1966,Tabasco,0.481278275
+1967,Tabasco,0
+1968,Tabasco,0.35673516
+1969,Tabasco,0
+1970,Tabasco,0
+1971,Tabasco,0.459558824
+1972,Tabasco,0.159210317
+1973,Tabasco,0.328263486
+1974,Tabasco,0.678886626
+1975,Tabasco,1.108033241
+1976,Tabasco,0.215610177
+1977,Tabasco,0.477897252
+1978,Tamaulipas,0
+1979,Tamaulipas,0.514668039
+1980,Tamaulipas,0.467977002
+1981,Tamaulipas,0
+1982,Tamaulipas,0
+1983,Tamaulipas,0
+1984,Tamaulipas,0
+1985,Tamaulipas,0
+1986,Tamaulipas,0.223947447
+1987,Tamaulipas,0
+1988,Tamaulipas,0
+1989,Tamaulipas,0
+1990,Tamaulipas,0
+1991,Tamaulipas,0
+1992,Tamaulipas,1.501501502
+1993,Tamaulipas,0
+1994,Tamaulipas,0.856164384
+1995,Tamaulipas,0
+1996,Tamaulipas,1.024590164
+1997,Tamaulipas,0
+1998,Tamaulipas,0.247739378
+1999,Tamaulipas,0.357064381
+2000,Tamaulipas,0
+2001,Tamaulipas,0
+2002,Tamaulipas,0.802568218
+2003,Tamaulipas,0
+2004,Tamaulipas,0.202723249
+2005,Tamaulipas,0
+2006,Tamaulipas,0
+2007,Tamaulipas,0
+2008,Tamaulipas,0
+2009,Tamaulipas,0.392802364
+2010,Tamaulipas,0.251193168
+2011,Tamaulipas,0
+2012,Tamaulipas,0
+2013,Tamaulipas,0
+2014,Tamaulipas,0.613120785
+2015,Tamaulipas,0.42945078
+2016,Tamaulipas,0.48947626
+2017,Tamaulipas,0.231374364
+2018,Tamaulipas,0.195503421
+2019,Tamaulipas,0
+2020,Tamaulipas,0
+2021,Tlaxcala,0
+2022,Tlaxcala,2.554278416
+2023,Tlaxcala,4.310344828
+2024,Tlaxcala,0
+2025,Tlaxcala,0.391619346
+2026,Tlaxcala,0.559753708
+2027,Tlaxcala,0.775193798
+2028,Tlaxcala,0
+2029,Tlaxcala,0
+2030,Tlaxcala,0.232180172
+2031,Tlaxcala,0
+2032,Tlaxcala,0
+2033,Tlaxcala,0.307455803
+2034,Tlaxcala,0
+2035,Tlaxcala,1.19379228
+2036,Tlaxcala,0
+2037,Tlaxcala,2.898550725
+2038,Tlaxcala,1.216545012
+2039,Tlaxcala,0
+2040,Tlaxcala,0
+2041,Tlaxcala,0
+2042,Tlaxcala,0
+2043,Tlaxcala,0
+2044,Tlaxcala,0.664893617
+2045,Tlaxcala,0.712927757
+2046,Tlaxcala,0.875656743
+2047,Tlaxcala,1.31061599
+2048,Tlaxcala,0.700770848
+2049,Tlaxcala,1.552795031
+2050,Tlaxcala,0
+2051,Tlaxcala,0
+2052,Tlaxcala,1.879699248
+2053,Tlaxcala,0.490196078
+2054,Tlaxcala,0.950871632
+2055,Tlaxcala,0
+2056,Tlaxcala,0
+2057,Tlaxcala,0
+2058,Tlaxcala,1.179245283
+2059,Tlaxcala,0.689179876
+2060,Tlaxcala,0
+2061,Tlaxcala,2.830856334
+2062,Tlaxcala,1.418439716
+2063,Tlaxcala,0.588581519
+2064,Tlaxcala,0
+2065,Tlaxcala,0
+2066,Tlaxcala,0
+2067,Tlaxcala,0
+2068,Tlaxcala,0.779423227
+2069,Tlaxcala,0
+2070,Tlaxcala,3.333333333
+2071,Tlaxcala,0
+2072,Tlaxcala,0
+2073,Tlaxcala,0
+2074,Tlaxcala,0
+2075,Tlaxcala,0
+2076,Tlaxcala,4.618937644
+2077,Tlaxcala,0
+2078,Tlaxcala,2.2172949
+2079,Tlaxcala,0
+2080,Tlaxcala,0
+2081,Veracruz de Ignacio de la Llave,0
+2082,Veracruz de Ignacio de la Llave,0
+2083,Veracruz de Ignacio de la Llave,1.365374113
+2084,Veracruz de Ignacio de la Llave,0
+2085,Veracruz de Ignacio de la Llave,0
+2086,Veracruz de Ignacio de la Llave,1.154734411
+2087,Veracruz de Ignacio de la Llave,0
+2088,Veracruz de Ignacio de la Llave,5.988023952
+2089,Veracruz de Ignacio de la Llave,0
+2090,Veracruz de Ignacio de la Llave,0.232288037
+2091,Veracruz de Ignacio de la Llave,0
+2092,Veracruz de Ignacio de la Llave,0
+2093,Veracruz de Ignacio de la Llave,0.814995925
+2094,Veracruz de Ignacio de la Llave,0.530503979
+2095,Veracruz de Ignacio de la Llave,1.273074475
+2096,Veracruz de Ignacio de la Llave,1.121076233
+2097,Veracruz de Ignacio de la Llave,4.587155963
+2098,Veracruz de Ignacio de la Llave,0
+2099,Veracruz de Ignacio de la Llave,3.838771593
+2100,Veracruz de Ignacio de la Llave,1.742160279
+2101,Veracruz de Ignacio de la Llave,0
+2102,Veracruz de Ignacio de la Llave,2.629272568
+2103,Veracruz de Ignacio de la Llave,0
+2104,Veracruz de Ignacio de la Llave,0
+2105,Veracruz de Ignacio de la Llave,1.253918495
+2106,Veracruz de Ignacio de la Llave,0.761614623
+2107,Veracruz de Ignacio de la Llave,0
+2108,Veracruz de Ignacio de la Llave,1.101726037
+2109,Veracruz de Ignacio de la Llave,6.109979633
+2110,Veracruz de Ignacio de la Llave,0
+2111,Veracruz de Ignacio de la Llave,0
+2112,Veracruz de Ignacio de la Llave,1.39275766
+2113,Veracruz de Ignacio de la Llave,2.588438309
+2114,Veracruz de Ignacio de la Llave,0.913242009
+2115,Veracruz de Ignacio de la Llave,0
+2116,Veracruz de Ignacio de la Llave,1.257861635
+2117,Veracruz de Ignacio de la Llave,4.694835681
+2118,Veracruz de Ignacio de la Llave,0.402819738
+2119,Veracruz de Ignacio de la Llave,0.594691031
+2120,Veracruz de Ignacio de la Llave,1.228501229
+2121,Veracruz de Ignacio de la Llave,0
+2122,Veracruz de Ignacio de la Llave,3.389830508
+2123,Veracruz de Ignacio de la Llave,0
+2124,Veracruz de Ignacio de la Llave,0.425803704
+2125,Veracruz de Ignacio de la Llave,0.450045005
+2126,Veracruz de Ignacio de la Llave,0
+2127,Veracruz de Ignacio de la Llave,1.459854015
+2128,Veracruz de Ignacio de la Llave,0.515375365
+2129,Veracruz de Ignacio de la Llave,1.420454545
+2130,Veracruz de Ignacio de la Llave,0
+2131,Veracruz de Ignacio de la Llave,0
+2132,Veracruz de Ignacio de la Llave,0
+2133,Veracruz de Ignacio de la Llave,0
+2134,Veracruz de Ignacio de la Llave,2.375296912
+2135,Veracruz de Ignacio de la Llave,7.619047619
+2136,Veracruz de Ignacio de la Llave,0
+2137,Veracruz de Ignacio de la Llave,1.035196687
+2138,Veracruz de Ignacio de la Llave,3.829583533
+2139,Veracruz de Ignacio de la Llave,0
+2140,Veracruz de Ignacio de la Llave,4.615384615
+2141,Veracruz de Ignacio de la Llave,2.730748225
+2142,Veracruz de Ignacio de la Llave,0
+2143,Veracruz de Ignacio de la Llave,1.926782274
+2144,Veracruz de Ignacio de la Llave,0
+2145,Veracruz de Ignacio de la Llave,1.402032948
+2146,Veracruz de Ignacio de la Llave,0
+2147,Veracruz de Ignacio de la Llave,0
+2148,Veracruz de Ignacio de la Llave,0.846023689
+2149,Veracruz de Ignacio de la Llave,0
+2150,Veracruz de Ignacio de la Llave,1.642036125
+2151,Veracruz de Ignacio de la Llave,1.898974554
+2152,Veracruz de Ignacio de la Llave,0.730994152
+2153,Veracruz de Ignacio de la Llave,1.118568233
+2154,Veracruz de Ignacio de la Llave,0
+2155,Veracruz de Ignacio de la Llave,0
+2156,Veracruz de Ignacio de la Llave,2.118644068
+2157,Veracruz de Ignacio de la Llave,1.385041551
+2158,Veracruz de Ignacio de la Llave,2.079002079
+2159,Veracruz de Ignacio de la Llave,0
+2160,Veracruz de Ignacio de la Llave,1.088139282
+2161,Veracruz de Ignacio de la Llave,1.140250855
+2162,Veracruz de Ignacio de la Llave,0
+2163,Veracruz de Ignacio de la Llave,0.479156684
+2164,Veracruz de Ignacio de la Llave,0
+2165,Veracruz de Ignacio de la Llave,0.676361177
+2166,Veracruz de Ignacio de la Llave,1.119402985
+2167,Veracruz de Ignacio de la Llave,0.328596073
+2168,Veracruz de Ignacio de la Llave,4.201680672
+2169,Veracruz de Ignacio de la Llave,1.268230818
+2170,Veracruz de Ignacio de la Llave,1.893939394
+2171,Veracruz de Ignacio de la Llave,0.849617672
+2172,Veracruz de Ignacio de la Llave,0.400480577
+2173,Veracruz de Ignacio de la Llave,0
+2174,Veracruz de Ignacio de la Llave,2.032520325
+2175,Veracruz de Ignacio de la Llave,5.208333333
+2176,Veracruz de Ignacio de la Llave,0
+2177,Veracruz de Ignacio de la Llave,0
+2178,Veracruz de Ignacio de la Llave,0
+2179,Veracruz de Ignacio de la Llave,1.550387597
+2180,Veracruz de Ignacio de la Llave,1.026694045
+2181,Veracruz de Ignacio de la Llave,0
+2182,Veracruz de Ignacio de la Llave,0.452079566
+2183,Veracruz de Ignacio de la Llave,0
+2184,Veracruz de Ignacio de la Llave,0.919117647
+2185,Veracruz de Ignacio de la Llave,0.3354579
+2186,Veracruz de Ignacio de la Llave,2.680965147
+2187,Veracruz de Ignacio de la Llave,5.524861878
+2188,Veracruz de Ignacio de la Llave,0.445087348
+2189,Veracruz de Ignacio de la Llave,0.792811839
+2190,Veracruz de Ignacio de la Llave,0
+2191,Veracruz de Ignacio de la Llave,0
+2192,Veracruz de Ignacio de la Llave,0
+2193,Veracruz de Ignacio de la Llave,0
+2194,Veracruz de Ignacio de la Llave,0
+2195,Veracruz de Ignacio de la Llave,1.666666667
+2196,Veracruz de Ignacio de la Llave,1.328021248
+2197,Veracruz de Ignacio de la Llave,0.868809731
+2198,Veracruz de Ignacio de la Llave,1.553484243
+2199,Veracruz de Ignacio de la Llave,0
+2200,Veracruz de Ignacio de la Llave,0
+2201,Veracruz de Ignacio de la Llave,1.928640309
+2202,Veracruz de Ignacio de la Llave,2.239641657
+2203,Veracruz de Ignacio de la Llave,0.816593173
+2204,Veracruz de Ignacio de la Llave,1.211305518
+2205,Veracruz de Ignacio de la Llave,1.302083333
+2206,Veracruz de Ignacio de la Llave,1.324503311
+2207,Veracruz de Ignacio de la Llave,2.906976744
+2208,Veracruz de Ignacio de la Llave,0.592534071
+2209,Veracruz de Ignacio de la Llave,0
+2210,Veracruz de Ignacio de la Llave,1.558846454
+2211,Veracruz de Ignacio de la Llave,0.844772967
+2212,Veracruz de Ignacio de la Llave,0.693000693
+2213,Veracruz de Ignacio de la Llave,1.072577762
+2214,Veracruz de Ignacio de la Llave,0
+2215,Veracruz de Ignacio de la Llave,0.875656743
+2216,Veracruz de Ignacio de la Llave,0
+2217,Veracruz de Ignacio de la Llave,0
+2218,Veracruz de Ignacio de la Llave,0.591016548
+2219,Veracruz de Ignacio de la Llave,0
+2220,Veracruz de Ignacio de la Llave,5.524861878
+2221,Veracruz de Ignacio de la Llave,0.875273523
+2222,Veracruz de Ignacio de la Llave,0
+2223,Veracruz de Ignacio de la Llave,0.667556742
+2224,Veracruz de Ignacio de la Llave,2.290076336
+2225,Veracruz de Ignacio de la Llave,0
+2226,Veracruz de Ignacio de la Llave,0
+2227,Veracruz de Ignacio de la Llave,0
+2228,Veracruz de Ignacio de la Llave,0.868809731
+2229,Veracruz de Ignacio de la Llave,2.144388849
+2230,Veracruz de Ignacio de la Llave,3.883495146
+2231,Veracruz de Ignacio de la Llave,1.267427123
+2232,Veracruz de Ignacio de la Llave,0
+2233,Veracruz de Ignacio de la Llave,4.032258065
+2234,Veracruz de Ignacio de la Llave,0
+2235,Veracruz de Ignacio de la Llave,1.496445941
+2236,Veracruz de Ignacio de la Llave,0
+2237,Veracruz de Ignacio de la Llave,1.293661061
+2238,Veracruz de Ignacio de la Llave,0.821018062
+2239,Veracruz de Ignacio de la Llave,3.946329913
+2240,Veracruz de Ignacio de la Llave,1.866542231
+2241,Veracruz de Ignacio de la Llave,0
+2242,Veracruz de Ignacio de la Llave,0
+2243,Veracruz de Ignacio de la Llave,0
+2244,Veracruz de Ignacio de la Llave,0
+2245,Veracruz de Ignacio de la Llave,0
+2246,Veracruz de Ignacio de la Llave,0
+2247,Veracruz de Ignacio de la Llave,2.032520325
+2248,Veracruz de Ignacio de la Llave,3.169572108
+2249,Veracruz de Ignacio de la Llave,0.877963126
+2250,Veracruz de Ignacio de la Llave,0
+2251,Veracruz de Ignacio de la Llave,0
+2252,Veracruz de Ignacio de la Llave,2.557544757
+2253,Veracruz de Ignacio de la Llave,0.628338046
+2254,Veracruz de Ignacio de la Llave,0.681818182
+2255,Veracruz de Ignacio de la Llave,1.656412683
+2256,Veracruz de Ignacio de la Llave,0
+2257,Veracruz de Ignacio de la Llave,1.016260163
+2258,Veracruz de Ignacio de la Llave,1.872659176
+2259,Veracruz de Ignacio de la Llave,0
+2260,Veracruz de Ignacio de la Llave,0
+2261,Veracruz de Ignacio de la Llave,0
+2262,Veracruz de Ignacio de la Llave,0
+2263,Veracruz de Ignacio de la Llave,0.824402308
+2264,Veracruz de Ignacio de la Llave,0
+2265,Veracruz de Ignacio de la Llave,0
+2266,Veracruz de Ignacio de la Llave,4.651162791
+2267,Veracruz de Ignacio de la Llave,0
+2268,Veracruz de Ignacio de la Llave,0
+2269,Veracruz de Ignacio de la Llave,0.668985818
+2270,Veracruz de Ignacio de la Llave,0
+2271,Veracruz de Ignacio de la Llave,0
+2272,Veracruz de Ignacio de la Llave,3.32594235
+2273,Veracruz de Ignacio de la Llave,0.449097595
+2274,Veracruz de Ignacio de la Llave,1.148105626
+2275,Veracruz de Ignacio de la Llave,0
+2276,Veracruz de Ignacio de la Llave,1.529051988
+2277,Veracruz de Ignacio de la Llave,0
+2278,Veracruz de Ignacio de la Llave,0
+2279,Veracruz de Ignacio de la Llave,0
+2280,Veracruz de Ignacio de la Llave,0
+2281,Veracruz de Ignacio de la Llave,0.64977258
+2282,Veracruz de Ignacio de la Llave,0
+2283,Veracruz de Ignacio de la Llave,0
+2284,Veracruz de Ignacio de la Llave,1.208215868
+2285,Veracruz de Ignacio de la Llave,0.900900901
+2286,Veracruz de Ignacio de la Llave,0.693481276
+2287,Veracruz de Ignacio de la Llave,0.553709856
+2288,Veracruz de Ignacio de la Llave,0
+2289,Veracruz de Ignacio de la Llave,1.148105626
+2290,Veracruz de Ignacio de la Llave,2.181818182
+2291,Veracruz de Ignacio de la Llave,0.643086817
+2292,Veracruz de Ignacio de la Llave,8.733624454
+2293,Yucatán,0
+2294,Yucatán,0
+2295,Yucatán,0
+2296,Yucatán,0
+2297,Yucatán,0
+2298,Yucatán,0
+2299,Yucatán,0
+2300,Yucatán,0
+2301,Yucatán,9.009009009
+2302,Yucatán,0
+2303,Yucatán,0
+2304,Yucatán,0
+2305,Yucatán,0
+2306,Yucatán,0
+2307,Yucatán,0
+2308,Yucatán,0
+2309,Yucatán,0
+2310,Yucatán,0
+2311,Yucatán,1.311188811
+2312,Yucatán,0
+2313,Yucatán,1.672240803
+2314,Yucatán,0
+2315,Yucatán,0
+2316,Yucatán,0
+2317,Yucatán,2.5
+2318,Yucatán,0
+2319,Yucatán,0
+2320,Yucatán,0
+2321,Yucatán,0
+2322,Yucatán,0
+2323,Yucatán,0
+2324,Yucatán,1.150747986
+2325,Yucatán,0.859845228
+2326,Yucatán,0
+2327,Yucatán,0
+2328,Yucatán,0
+2329,Yucatán,0
+2330,Yucatán,0
+2331,Yucatán,0
+2332,Yucatán,1.062699256
+2333,Yucatán,0.534473544
+2334,Yucatán,0
+2335,Yucatán,4.587155963
+2336,Yucatán,2.109704641
+2337,Yucatán,0
+2338,Yucatán,0
+2339,Yucatán,0
+2340,Yucatán,0.697836706
+2341,Yucatán,0
+2342,Yucatán,0.31378018
+2343,Yucatán,0
+2344,Yucatán,0.989119683
+2345,Yucatán,0
+2346,Yucatán,0
+2347,Yucatán,0
+2348,Yucatán,0
+2349,Yucatán,0
+2350,Yucatán,2.096436059
+2351,Yucatán,0.95724314
+2352,Yucatán,0
+2353,Yucatán,0
+2354,Yucatán,0
+2355,Yucatán,0
+2356,Yucatán,0
+2357,Yucatán,0
+2358,Yucatán,0
+2359,Yucatán,0
+2360,Yucatán,7.518796992
+2361,Yucatán,0
+2362,Yucatán,4.854368932
+2363,Yucatán,0
+2364,Yucatán,0
+2365,Yucatán,0
+2366,Yucatán,0
+2367,Yucatán,0
+2368,Yucatán,1.055966209
+2369,Yucatán,0
+2370,Yucatán,0
+2371,Yucatán,0
+2372,Yucatán,0
+2373,Yucatán,0
+2374,Yucatán,0
+2375,Yucatán,0
+2376,Yucatán,3.267973856
+2377,Yucatán,0
+2378,Yucatán,0
+2379,Yucatán,0
+2380,Yucatán,0
+2381,Yucatán,0.380083618
+2382,Yucatán,0
+2383,Yucatán,1.272264631
+2384,Yucatán,0
+2385,Yucatán,0
+2386,Yucatán,6.329113924
+2387,Yucatán,4.464285714
+2388,Yucatán,0.870170553
+2389,Yucatán,0
+2390,Yucatán,2.044989775
+2391,Yucatán,0
+2392,Yucatán,0
+2393,Yucatán,0.683293475
+2394,Yucatán,0.691802145
+2395,Yucatán,0
+2396,Yucatán,3.125
+2397,Yucatán,0
+2398,Yucatán,0
+2399,Zacatecas,0
+2400,Zacatecas,0
+2401,Zacatecas,9.433962264
+2402,Zacatecas,4.347826087
+2403,Zacatecas,0.799573561
+2404,Zacatecas,0
+2405,Zacatecas,0
+2406,Zacatecas,0
+2407,Zacatecas,0
+2408,Zacatecas,0.353428254
+2409,Zacatecas,0
+2410,Zacatecas,0
+2411,Zacatecas,0
+2412,Zacatecas,1.239157373
+2413,Zacatecas,0
+2414,Zacatecas,0
+2415,Zacatecas,0.456162759
+2416,Zacatecas,0
+2417,Zacatecas,1.386962552
+2418,Zacatecas,0.41963911
+2419,Zacatecas,0
+2420,Zacatecas,0.60204696
+2421,Zacatecas,2.621231979
+2422,Zacatecas,0.229832222
+2423,Zacatecas,0
+2424,Zacatecas,0
+2425,Zacatecas,0
+2426,Zacatecas,8.928571429
+2427,Zacatecas,0.554323725
+2428,Zacatecas,0
+2429,Zacatecas,0
+2430,Zacatecas,1.373626374
+2431,Zacatecas,0
+2432,Zacatecas,0
+2433,Zacatecas,0.752445448
+2434,Zacatecas,0.660501982
+2435,Zacatecas,0
+2436,Zacatecas,0.333388898
+2437,Zacatecas,0.413393964
+2438,Zacatecas,0.591715976
+2439,Zacatecas,0
+2440,Zacatecas,0.976085896
+2441,Zacatecas,0
+2442,Zacatecas,0
+2443,Zacatecas,2.232142857
+2444,Zacatecas,3.50877193
+2445,Zacatecas,0
+2446,Zacatecas,0.592417062
+2447,Zacatecas,0.58685446
+2448,Zacatecas,0
+2449,Zacatecas,0.719942405
+2450,Zacatecas,0
+2451,Zacatecas,0
+2452,Zacatecas,0.60204696
+2453,Zacatecas,0.498256104
+2454,Zacatecas,0.207382829
+2455,Zacatecas,0
+2456,Zacatecas,0

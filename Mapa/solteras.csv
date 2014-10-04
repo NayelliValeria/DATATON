@@ -1,0 +1,2457 @@
+cve,entidad,pob
+1,Aguascalientes,37.1
+2,Asientos,35
+3,Calvillo,38.9
+4,Cosío,34.5
+5,Jesús María,35.6
+6,Pabellón de Arteaga,38
+7,Rincón de Romos,37
+8,San José de Gracia,37.1
+9,Tepezalá,35.2
+10,El Llano,35.8
+11,San Francisco de los Romo,32.5
+12,Ensenada,34.9
+13,Mexicali,34.7
+14,Tecate,33.9
+15,Tijuana,35
+16,Playas de Rosarito,34
+17,Comondú,32.3
+18,Mulegé,31.3
+19,La Paz,35.5
+20,Los Cabos,32.3
+21,Loreto,31.5
+22,Calkiní,35.8
+23,Campeche,34.3
+24,Carmen,31.8
+25,Champotón,32
+26,Hecelchakán,34.2
+27,Hopelchén,36.9
+28,Palizada,31.1
+29,Tenabo,32.5
+30,Escárcega,34.8
+31,Calakmul,35.8
+32,Candelaria,34.3
+33,Abasolo,28
+34,Acuña,31.2
+35,Allende,31.7
+36,Arteaga,32.1
+37,Candela,31.1
+38,Castaños,30
+39,Cuatro Ciénegas,31.6
+40,Escobedo,30
+41,Francisco I. Madero,32.4
+42,Frontera,31.1
+43,General Cepeda,33.2
+44,Guerrero,30.6
+45,Hidalgo,29.8
+46,Jiménez,30.4
+47,Juárez,31.4
+48,Lamadrid,28.5
+49,Matamoros,30.8
+50,Monclova,31.6
+51,Morelos,29.6
+52,Múzquiz,30
+53,Nadadores,30
+54,Nava,31.7
+55,Ocampo,31.5
+56,Parras,34.6
+57,Piedras Negras,32.6
+58,Progreso,30.5
+59,Ramos Arizpe,30.2
+60,Sabinas,31.1
+61,Sacramento,30
+62,Saltillo,33.9
+63,San Buenaventura,29.5
+64,San Juan de Sabinas,29.8
+65,San Pedro,31.8
+66,Sierra Mojada,28.1
+67,Torreón,34.3
+68,Viesca,30.6
+69,Villa Unión,30.1
+70,Zaragoza,30.3
+71,Armería,33.4
+72,Colima,37.8
+73,Comala,36.9
+74,Coquimatlán,36.7
+75,Cuauhtémoc,35
+76,Ixtlahuacán,34
+77,Manzanillo,33.2
+78,Minatitlán,34.6
+79,Tecomán,33.6
+80,Villa de Álvarez,37
+81,Acacoyagua,36.8
+82,Acala,32
+83,Acapetahua,34.2
+84,Altamirano,35.7
+85,Amatán,35.3
+86,Amatenango de la Frontera,34.7
+87,Amatenango del Valle,35.2
+88,Angel Albino Corzo,36.5
+89,Arriaga,31.9
+90,Bejucal de Ocampo,39.9
+91,Bella Vista,35.8
+92,Berriozábal,32.4
+93,Bochil,36.7
+94,El Bosque,38.5
+95,Cacahoatán,36.4
+96,Catazajá,32.4
+97,Cintalapa,34.1
+98,Coapilla,34.5
+99,Comitán de Domínguez,32.9
+100,La Concordia,35.6
+101,Copainalá,36.8
+102,Chalchihuitán,37.9
+103,Chamula,37.3
+104,Chanal,35.1
+105,Chapultenango,41.7
+106,Chenalhó,37.5
+107,Chiapa de Corzo,32.4
+108,Chiapilla,30.4
+109,Chicoasén,34
+110,Chicomuselo,34.7
+111,Chilón,42.4
+112,Escuintla,35.6
+113,Francisco León,43.9
+114,Frontera Comalapa,33.8
+115,Frontera Hidalgo,34.8
+116,La Grandeza,39.6
+117,Huehuetán,34.4
+118,Huixtán,41
+119,Huitiupán,36.5
+120,Huixtla,34
+121,La Independencia,31.5
+122,Ixhuatán,34.1
+123,Ixtacomitán,37.8
+124,Ixtapa,36.9
+125,Ixtapangajoya,36.8
+126,Jiquipilas,31.7
+127,Jitotol,34.9
+128,Juárez,34.4
+129,Larráinzar,39.6
+130,La Libertad,31.1
+131,Mapastepec,34.7
+132,Las Margaritas,34.4
+133,Mazapa de Madero,35.6
+134,Mazatán,32.1
+135,Metapa,33.7
+136,Mitontic,32.7
+137,Motozintla,38
+138,Nicolás Ruíz,30.3
+139,Ocosingo,38.6
+140,Ocotepec,37.2
+141,Ocozocoautla de Espinosa,34.7
+142,Ostuacán,37.2
+143,Osumacinta,33.8
+144,Oxchuc,39.4
+145,Palenque,36.9
+146,Pantelhó,38
+147,Pantepec,35.5
+148,Pichucalco,35.5
+149,Pijijiapan,31.9
+150,El Porvenir,39.3
+151,Villa Comaltitlán,35.9
+152,Pueblo Nuevo Solistahuacán,36.2
+153,Rayón,36.4
+154,Reforma,32.5
+155,Las Rosas,32.5
+156,Sabanilla,37
+157,Salto de Agua,39.6
+158,San Cristóbal de las Casas,37.4
+159,San Fernando,30.3
+160,Siltepec,38.5
+161,Simojovel,39.1
+162,Sitalá,37
+163,Socoltenango,32.6
+164,Solosuchiapa,36.5
+165,Soyaló,34
+166,Suchiapa,31.9
+167,Suchiate,34
+168,Sunuapa,38.6
+169,Tapachula,35.1
+170,Tapalapa,35.9
+171,Tapilula,35
+172,Tecpatán,35.6
+173,Tenejapa,38.2
+174,Teopisca,36
+175,Tila,38.5
+176,Tonalá,31.8
+177,Totolapa,33.6
+178,La Trinitaria,31.9
+179,Tumbalá,41.6
+180,Tuxtla Gutiérrez,36.1
+181,Tuxtla Chico,34.8
+182,Tuzantán,35.6
+183,Tzimol,31.3
+184,Unión Juárez,37.2
+185,Venustiano Carranza,31.4
+186,Villa Corzo,32.8
+187,Villaflores,32.2
+188,Yajalón,38.1
+189,San Lucas,33
+190,Zinacantán,39.9
+191,San Juan Cancuc,40.1
+192,Aldama,38.5
+193,Benemérito de las Américas,36.9
+194,Maravilla Tenejapa,37.5
+195,Marqués de Comillas,37.6
+196,Montecristo de Guerrero,37
+197,San Andrés Duraznal,28.7
+198,Santiago el Pinar,36.8
+199,Ahumada,31.7
+200,Aldama,30.1
+201,Allende,32.6
+202,Aquiles Serdán,29.2
+203,Ascensión,31
+204,Bachíniva,25.4
+205,Balleza,33.6
+206,Batopilas,31.3
+207,Bocoyna,33
+208,Buenaventura,29.1
+209,Camargo,32.4
+210,Carichí,30.3
+211,Casas Grandes,30.3
+212,Coronado,31.3
+213,Coyame del Sotol,28.3
+214,La Cruz,30.9
+215,Cuauhtémoc,32
+216,Cusihuiriachi,28.2
+217,Chihuahua,35.5
+218,Chínipas,35.1
+219,Delicias,32.6
+220,Dr. Belisario Domínguez,26.4
+221,Galeana,33.3
+222,Santa Isabel,34.2
+223,Gómez Farías,28.5
+224,Gran Morelos,28.9
+225,Guachochi,29.8
+226,Guadalupe,34.6
+227,Guadalupe y Calvo,34.7
+228,Guazapares,34.6
+229,Guerrero,30.6
+230,Hidalgo del Parral,34.6
+231,Huejotitán,30.8
+232,Ignacio Zaragoza,26.3
+233,Janos,32.1
+234,Jiménez,33.7
+235,Juárez,33.3
+236,Julimes,29.9
+237,López,30.4
+238,Madera,30.6
+239,Maguarichi,28.2
+240,Manuel Benavides,26.9
+241,Matachí,32
+242,Matamoros,31.7
+243,Meoqui,31.3
+244,Morelos,32
+245,Moris,29.1
+246,Namiquipa,28.3
+247,Nonoava,30
+248,Nuevo Casas Grandes,32.2
+249,Ocampo,30.3
+250,Ojinaga,30.5
+251,Praxedis G. Guerrero,34.1
+252,Riva Palacio,36
+253,Rosales,30.6
+254,Rosario,30.7
+255,San Francisco de Borja,26.4
+256,San Francisco de Conchos,32.3
+257,San Francisco del Oro,33.8
+258,Santa Bárbara,33
+259,Satevó,31.6
+260,Saucillo,31.1
+261,Temósachic,29.2
+262,El Tule,30.6
+263,Urique,32.5
+264,Uruachi,34.2
+265,Valle de Zaragoza,28.9
+266,Azcapotzalco,38.6
+267,Coyoacán,38.8
+268,Cuajimalpa de Morelos,36.4
+269,Gustavo A. Madero,37.3
+270,Iztacalco,38.2
+271,Iztapalapa,36.5
+272,La Magdalena Contreras,35.6
+273,Milpa Alta,33.4
+274,Álvaro Obregón,37
+275,Tláhuac,35
+276,Tlalpan,36.9
+277,Xochimilco,35.7
+278,Benito Juárez,39.7
+279,Cuauhtémoc,41.2
+280,Miguel Hidalgo,39.3
+281,Venustiano Carranza,38.6
+282,Canatlán,34.4
+283,Canelas,32.5
+284,Coneto de Comonfort,34.3
+285,Cuencamé,33
+286,Durango,37
+287,General Simón Bolívar,31.3
+288,Gómez Palacio,33.2
+289,Guadalupe Victoria,31.6
+290,Guanaceví,30.9
+291,Hidalgo,33.3
+292,Indé,31.7
+293,Lerdo,32.9
+294,Mapimí,31.9
+295,Mezquital,37.9
+296,Nazas,32.4
+297,Nombre de Dios,32.2
+298,Ocampo,32.4
+299,El Oro,33.5
+300,Otáez,39.5
+301,Pánuco de Coronado,31.9
+302,Peñón Blanco,33.2
+303,Poanas,32.4
+304,Pueblo Nuevo,36
+305,Rodeo,34.4
+306,San Bernardo,29.1
+307,San Dimas,34.9
+308,San Juan de Guadalupe,34.4
+309,San Juan del Río,35.3
+310,San Luis del Cordero,32.9
+311,San Pedro del Gallo,31
+312,Santa Clara,33.6
+313,Santiago Papasquiaro,36
+314,Súchil,35.7
+315,Tamazula,34.5
+316,Tepehuanes,32.9
+317,Tlahualilo,31.7
+318,Topia,33.6
+319,Vicente Guerrero,33.2
+320,Nuevo Ideal,34.9
+321,Abasolo,35.3
+322,Acámbaro,34.1
+323,San Miguel de Allende,38.9
+324,Apaseo el Alto,35.2
+325,Apaseo el Grande,34.2
+326,Atarjea,38
+327,Celaya,35.6
+328,Manuel Doblado,34.5
+329,Comonfort,38.2
+330,Coroneo,36.4
+331,Cortazar,33.6
+332,Cuerámaro,35.3
+333,Doctor Mora,40.6
+334,Dolores Hidalgo Cuna de la Independencia Nacional,40.3
+335,Guanajuato,37.5
+336,Huanímaro,35.9
+337,Irapuato,35.2
+338,Jaral del Progreso,30.4
+339,Jerécuaro,36.9
+340,León,37.9
+341,Moroleón,33.2
+342,Ocampo,39.5
+343,Pénjamo,35.3
+344,Pueblo Nuevo,35
+345,Purísima del Rincón,36.4
+346,Romita,35.6
+347,Salamanca,33.5
+348,Salvatierra,33.8
+349,San Diego de la Unión,40
+350,San Felipe,39.5
+351,San Francisco del Rincón,37.2
+352,San José Iturbide,39.3
+353,San Luis de la Paz,42.1
+354,Santa Catarina,41
+355,Santa Cruz de Juventino Rosas,35.6
+356,Santiago Maravatío,33.9
+357,Silao,35.5
+358,Tarandacuao,34.6
+359,Tarimoro,35.2
+360,Tierra Blanca,42.8
+361,Uriangato,32.3
+362,Valle de Santiago,32.8
+363,Victoria,42.4
+364,Villagrán,32.7
+365,Xichú,40.3
+366,Yuriria,33
+367,Acapulco de Juárez,34.1
+368,Ahuacuotzingo,36.4
+369,Ajuchitlán del Progreso,37.3
+370,Alcozauca de Guerrero,34.2
+371,Alpoyeca,38.6
+372,Apaxtla,34.3
+373,Arcelia,35.3
+374,Atenango del Río,33
+375,Atlamajalcingo del Monte,35.9
+376,Atlixtac,35.7
+377,Atoyac de Álvarez,33.7
+378,Ayutla de los Libres,36.7
+379,Azoyú,34.8
+380,Benito Juárez,29.3
+381,Buenavista de Cuéllar,34.9
+382,Coahuayutla de José María Izazaga,36.8
+383,Cocula,33
+384,Copala,34.1
+385,Copalillo,35.1
+386,Copanatoyac,33.9
+387,Coyuca de Benítez,33
+388,Coyuca de Catalán,33.5
+389,Cuajinicuilapa,34.5
+390,Cualác,37.5
+391,Cuautepec,35.9
+392,Cuetzala del Progreso,32.4
+393,Cutzamala de Pinzón,32.9
+394,Chilapa de Álvarez,34.8
+395,Chilpancingo de los Bravo,36.8
+396,Florencio Villarreal,36.3
+397,General Canuto A. Neri,38
+398,General Heliodoro Castillo,37.3
+399,Huamuxtitlán,35.4
+400,Huitzuco de los Figueroa,33.7
+401,Iguala de la Independencia,34.7
+402,Igualapa,37.4
+403,Ixcateopan de Cuauhtémoc,35.3
+404,Zihuatanejo de Azueta,33.2
+405,Juan R. Escudero,34.1
+406,Leonardo Bravo,34.1
+407,Malinaltepec,38.1
+408,Mártir de Cuilapan,34.2
+409,Metlatónoc,33.8
+410,Mochitlán,34.8
+411,Olinalá,37
+412,Ometepec,36.6
+413,Pedro Ascencio Alquisiras,38.3
+414,Petatlán,34
+415,Pilcaya,35.5
+416,Pungarabato,33.7
+417,Quechultenango,34.6
+418,San Luis Acatlán,37.3
+419,San Marcos,33
+420,San Miguel Totolapan,40.1
+421,Taxco de Alarcón,35
+422,Tecoanapa,36.5
+423,Técpan de Galeana,30.3
+424,Teloloapan,35.2
+425,Tepecoacuilco de Trujano,33.5
+426,Tetipac,37.1
+427,Tixtla de Guerrero,33.5
+428,Tlacoachistlahuaca,36.9
+429,Tlacoapa,35.5
+430,Tlalchapa,32.1
+431,Tlalixtaquilla de Maldonado,34.1
+432,Tlapa de Comonfort,37.6
+433,Tlapehuala,34.5
+434,La Unión de Isidoro Montes de Oca,33.1
+435,Xalpatláhuac,34.7
+436,Xochihuehuetlán,33.1
+437,Xochistlahuaca,36.5
+438,Zapotitlán Tablas,35.6
+439,Zirándaro,35
+440,Zitlala,34.1
+441,Eduardo Neri,31.1
+442,Acatepec,38.9
+443,Marquelia,32.5
+444,Cochoapa el Grande,31.1
+445,José Joaquin de Herrera,32.5
+446,Juchitán,33.1
+447,Iliatenco,43.2
+448,Acatlán,33.1
+449,Acaxochitlán,34.3
+450,Actopan,35.3
+451,Agua Blanca de Iturbide,32.8
+452,Ajacuba,32.6
+453,Alfajayucan,36.1
+454,Almoloya,31.7
+455,Apan,32.5
+456,El Arenal,34.1
+457,Atitalaquia,32.6
+458,Atlapexco,32.7
+459,Atotonilco el Grande,33.9
+460,Atotonilco de Tula,31.8
+461,Calnali,30.3
+462,Cardonal,34.7
+463,Cuautepec de Hinojosa,35.5
+464,Chapantongo,34
+465,Chapulhuacán,36.4
+466,Chilcuautla,35.7
+467,Eloxochitlán,31.6
+468,Emiliano Zapata,31.7
+469,Epazoyucan,32.4
+470,Francisco I. Madero,34.8
+471,Huasca de Ocampo,33.3
+472,Huautla,31.8
+473,Huazalingo,35.2
+474,Huehuetla,33.6
+475,Huejutla de Reyes,35.1
+476,Huichapan,36
+477,Ixmiquilpan,35.5
+478,Jacala de Ledezma,33.5
+479,Jaltocán,33.8
+480,Juárez Hidalgo,31.9
+481,Lolotla,34.6
+482,Metepec,31
+483,San Agustín Metzquititlán,31.8
+484,Metztitlán,32.3
+485,Mineral del Chico,32.8
+486,Mineral del Monte,35.1
+487,La Misión,34.4
+488,Mixquiahuala de Juárez,33.6
+489,Molango de Escamilla,34.3
+490,Nicolás Flores,34.1
+491,Nopala de Villagrán,34.2
+492,Omitlán de Juárez,32.2
+493,San Felipe Orizatlán,32.9
+494,Pacula,34.9
+495,Pachuca de Soto,37.2
+496,Pisaflores,36.9
+497,Progreso de Obregón,36
+498,Mineral de la Reforma,34.8
+499,San Agustín Tlaxiaca,33.4
+500,San Bartolo Tutotepec,34
+501,San Salvador,32.8
+502,Santiago de Anaya,34.8
+503,Santiago Tulantepec de Lugo Guerrero,33.7
+504,Singuilucan,30.4
+505,Tasquillo,35.1
+506,Tecozautla,34
+507,Tenango de Doria,34.1
+508,Tepeapulco,33.1
+509,Tepehuacán de Guerrero,34.6
+510,Tepeji del Río de Ocampo,33.2
+511,Tepetitlán,33.1
+512,Tetepango,33.9
+513,Villa de Tezontepec,34.9
+514,Tezontepec de Aldama,32.3
+515,Tianguistengo,32.7
+516,Tizayuca,30.7
+517,Tlahuelilpan,32.7
+518,Tlahuiltepa,31.1
+519,Tlanalapa,32.7
+520,Tlanchinol,34.6
+521,Tlaxcoapan,33.6
+522,Tolcayuca,34
+523,Tula de Allende,34.2
+524,Tulancingo de Bravo,34.4
+525,Xochiatipan,34.1
+526,Xochicoatlán,33.5
+527,Yahualica,33
+528,Zacualtipán de Ángeles,32.9
+529,Zapotlán de Juárez,33.9
+530,Zempoala,32.3
+531,Zimapán,34.5
+532,Acatic,38
+533,Acatlán de Juárez,39.8
+534,Ahualulco de Mercado,34.9
+535,Amacueca,39.8
+536,Amatitán,36.3
+537,Ameca,34
+538,San Juanito de Escobedo,35.2
+539,Arandas,39.8
+540,El Arenal,36.1
+541,Atemajac de Brizuela,36.9
+542,Atengo,38.2
+543,Atenguillo,39
+544,Atotonilco el Alto,38.5
+545,Atoyac,35.7
+546,Autlán de Navarro,36.3
+547,Ayotlán,36.2
+548,Ayutla,36.6
+549,La Barca,35.2
+550,Bolaños,36.2
+551,Cabo Corrientes,33.4
+552,Casimiro Castillo,34.6
+553,Cihuatlán,33.1
+554,Zapotlán el Grande,37.8
+555,Cocula,34.9
+556,Colotlán,37.9
+557,Concepción de Buenos Aires,35.9
+558,Cuautitlán de García Barragán,37.4
+559,Cuautla,39.5
+560,Cuquío,38.7
+561,Chapala,33.7
+562,Chimaltitán,36.5
+563,Chiquilistlán,39.4
+564,Degollado,37
+565,Ejutla,40.1
+566,Encarnación de Díaz,39.5
+567,Etzatlán,37.5
+568,El Grullo,35.9
+569,Guachinango,34.5
+570,Guadalajara,40.9
+571,Hostotipaquillo,37.3
+572,Huejúcar,35.5
+573,Huejuquilla el Alto,37.7
+574,La Huerta,33.9
+575,Ixtlahuacán de los Membrillos,33
+576,Ixtlahuacán del Río,38.2
+577,Jalostotitlán,40.5
+578,Jamay,34.1
+579,Jesús María,39.1
+580,Jilotlán de los Dolores,35.6
+581,Jocotepec,35.6
+582,Juanacatlán,35.9
+583,Juchitlán,35.4
+584,Lagos de Moreno,39.7
+585,El Limón,34.6
+586,Magdalena,37.8
+587,Santa María del Oro,40.1
+588,La Manzanilla de la Paz,37.6
+589,Mascota,36.6
+590,Mazamitla,35.9
+591,Mexticacán,37.2
+592,Mezquitic,34.8
+593,Mixtlán,35.4
+594,Ocotlán,34.1
+595,Ojuelos de Jalisco,37.1
+596,Pihuamo,35.8
+597,Poncitlán,35.8
+598,Puerto Vallarta,36.3
+599,Villa Purificación,36.3
+600,Quitupan,35.6
+601,El Salto,33.9
+602,San Cristóbal de la Barranca,41.2
+603,San Diego de Alejandría,42.8
+604,San Juan de los Lagos,40.2
+605,San Julián,42.3
+606,San Marcos,38.2
+607,San Martín de Bolaños,39.7
+608,San Martín Hidalgo,34.3
+609,San Miguel el Alto,41.7
+610,Gómez Farías,36.1
+611,San Sebastián del Oeste,35.4
+612,Santa María de los Ángeles,35.9
+613,Sayula,36.1
+614,Tala,33.4
+615,Talpa de Allende,38.6
+616,Tamazula de Gordiano,34.9
+617,Tapalpa,35.5
+618,Tecalitlán,37.1
+619,Tecolotlán,34.9
+620,Techaluta de Montenegro,33.4
+621,Tenamaxtlán,35.8
+622,Teocaltiche,36.7
+623,Teocuitatlán de Corona,32.7
+624,Tepatitlán de Morelos,40.7
+625,Tequila,39.2
+626,Teuchitlán,35.2
+627,Tizapán el Alto,33.5
+628,Tlajomulco de Zúñiga,30.8
+629,Tlaquepaque,36.2
+630,Tolimán,36.3
+631,Tomatlán,34.2
+632,Tonalá,35.8
+633,Tonaya,38
+634,Tonila,33.5
+635,Totatiche,37.5
+636,Tototlán,35.5
+637,Tuxcacuesco,36.4
+638,Tuxcueca,34.8
+639,Tuxpan,36.7
+640,Unión de San Antonio,39.1
+641,Unión de Tula,37
+642,Valle de Guadalupe,40.2
+643,Valle de Juárez,34
+644,San Gabriel,37.5
+645,Villa Corona,34.2
+646,Villa Guerrero,37.4
+647,Villa Hidalgo,35.6
+648,Cañadas de Obregón,34.8
+649,Yahualica de González Gallo,36.6
+650,Zacoalco de Torres,36.2
+651,Zapopan,39
+652,Zapotiltic,36
+653,Zapotitlán de Vadillo,41.6
+654,Zapotlán del Rey,34.2
+655,Zapotlanejo,38.1
+656,San Ignacio Cerro Gordo,39.8
+657,Acambay,38.8
+658,Acolman,32.5
+659,Aculco,37.2
+660,Almoloya de Alquisiras,35.9
+661,Almoloya de Juárez,34.1
+662,Almoloya del Río,32.2
+663,Amanalco,35.7
+664,Amatepec,36.4
+665,Amecameca,33.8
+666,Apaxco,32.3
+667,Atenco,32.6
+668,Atizapán,31.7
+669,Atizapán de Zaragoza,35.5
+670,Atlacomulco,39.2
+671,Atlautla,34.6
+672,Axapusco,32.4
+673,Ayapango,31.6
+674,Calimaya,31.8
+675,Capulhuac,34.6
+676,Coacalco de Berriozábal,35.7
+677,Coatepec Harinas,35.6
+678,Cocotitlán,32.9
+679,Coyotepec,33.2
+680,Cuautitlán,33
+681,Chalco,33.8
+682,Chapa de Mota,34.9
+683,Chapultepec,30.1
+684,Chiautla,34.5
+685,Chicoloapan,32.1
+686,Chiconcuac,34.5
+687,Chimalhuacán,34.1
+688,Donato Guerra,37.9
+689,Ecatepec de Morelos,35.4
+690,Ecatzingo,34.1
+691,Huehuetoca,29.4
+692,Hueypoxtla,32.3
+693,Huixquilucan,35.2
+694,Isidro Fabela,33.9
+695,Ixtapaluca,34.5
+696,Ixtapan de la Sal,36.4
+697,Ixtapan del Oro,36.8
+698,Ixtlahuaca,37.7
+699,Xalatlaco,33.3
+700,Jaltenco,33.6
+701,Jilotepec,37
+702,Jilotzingo,33.3
+703,Jiquipilco,35.4
+704,Jocotitlán,37.7
+705,Joquicingo,30.7
+706,Juchitepec,30.7
+707,Lerma,33.4
+708,Malinalco,33.1
+709,Melchor Ocampo,32.9
+710,Metepec,36.3
+711,Mexicaltzingo,34.6
+712,Morelos,36.2
+713,Naucalpan de Juárez,35.1
+714,Nezahualcóyotl,36.5
+715,Nextlalpan,32.5
+716,Nicolás Romero,33.3
+717,Nopaltepec,29.8
+718,Ocoyoacac,35.4
+719,Ocuilan,33.7
+720,El Oro,39.7
+721,Otumba,33
+722,Otzoloapan,38.6
+723,Otzolotepec,34.7
+724,Ozumba,34.2
+725,Papalotla,34.2
+726,La Paz,34.5
+727,Polotitlán,35.6
+728,Rayón,31.1
+729,San Antonio la Isla,28.8
+730,San Felipe del Progreso,39.2
+731,San Martín de las Pirámides,33.8
+732,San Mateo Atenco,32.5
+733,San Simón de Guerrero,34.8
+734,Santo Tomás,35.2
+735,Soyaniquilpan de Juárez,32.9
+736,Sultepec,37.6
+737,Tecámac,31.7
+738,Tejupilco,37
+739,Temamatla,32.4
+740,Temascalapa,33.1
+741,Temascalcingo,37.6
+742,Temascaltepec,37.2
+743,Temoaya,35
+744,Tenancingo,35.7
+745,Tenango del Aire,32.8
+746,Tenango del Valle,31.9
+747,Teoloyucan,33.6
+748,Teotihuacán,33.8
+749,Tepetlaoxtoc,32.4
+750,Tepetlixpa,33.4
+751,Tepotzotlán,34.3
+752,Tequixquiac,31.3
+753,Texcaltitlán,35.8
+754,Texcalyacac,34
+755,Texcoco,35.8
+756,Tezoyuca,33.6
+757,Tianguistenco,33.9
+758,Timilpan,35.8
+759,Tlalmanalco,32.5
+760,Tlalnepantla de Baz,36
+761,Tlatlaya,36.2
+762,Toluca,35.3
+763,Tonatico,33.6
+764,Tultepec,33.5
+765,Tultitlán,34.9
+766,Valle de Bravo,34.7
+767,Villa de Allende,37.2
+768,Villa del Carbón,35.9
+769,Villa Guerrero,34
+770,Villa Victoria,36.6
+771,Xonacatlán,32.8
+772,Zacazonapan,34.4
+773,Zacualpan,36.8
+774,Zinacantepec,34
+775,Zumpahuacán,41.4
+776,Zumpango,31.3
+777,Cuautitlán Izcalli,35.6
+778,Valle de Chalco Solidaridad,34.4
+779,Luvianos,39.8
+780,San José del Rincón,39.1
+781,Tonanitla,34.2
+782,Acuitzio,36.1
+783,Aguililla,36.5
+784,Álvaro Obregón,31.4
+785,Angamacutiro,32.1
+786,Angangueo,35
+787,Apatzingán,34.1
+788,Aporo,38.8
+789,Aquila,39.2
+790,Ario,34.2
+791,Arteaga,39.1
+792,Briseñas,32.9
+793,Buenavista,33.3
+794,Carácuaro,37
+795,Coahuayana,33.8
+796,Coalcomán de Vázquez Pallares,39.2
+797,Coeneo,31.9
+798,Contepec,36.5
+799,Copándaro,34.9
+800,Cotija,34.9
+801,Cuitzeo,34.3
+802,Charapan,34.4
+803,Charo,33.8
+804,Chavinda,32.4
+805,Cherán,28.3
+806,Chilchota,31.4
+807,Chinicuila,39.9
+808,Chucándiro,32.4
+809,Churintzio,34.2
+810,Churumuco,40.3
+811,Ecuandureo,33.2
+812,Epitacio Huerta,37.3
+813,Erongarícuaro,33.3
+814,Gabriel Zamora,33.6
+815,Hidalgo,37.5
+816,La Huacana,37.7
+817,Huandacareo,31.7
+818,Huaniqueo,31.1
+819,Huetamo,33.3
+820,Huiramba,32.4
+821,Indaparapeo,34.2
+822,Irimbo,38.4
+823,Ixtlán,32.3
+824,Jacona,33.5
+825,Jiménez,31.6
+826,Jiquilpan,36.4
+827,Juárez,33.3
+828,Jungapeo,32.1
+829,Lagunillas,32.7
+830,Madero,38.4
+831,Maravatío,37.7
+832,Marcos Castellanos,36.3
+833,Lázaro Cárdenas,34.3
+834,Morelia,37.3
+835,Morelos,35.9
+836,Múgica,33.7
+837,Nahuatzen,28.9
+838,Nocupétaro,38.6
+839,Nuevo Parangaricutiro,31.3
+840,Nuevo Urecho,34.6
+841,Numarán,33.3
+842,Ocampo,35.8
+843,Pajacuarán,32.9
+844,Panindícuaro,33.9
+845,Parácuaro,33.7
+846,Paracho,30.9
+847,Pátzcuaro,35.2
+848,Penjamillo,33.5
+849,Peribán,33.6
+850,La Piedad,34.7
+851,Purépero,32.6
+852,Puruándiro,33.1
+853,Queréndaro,35.6
+854,Quiroga,31.9
+855,Cojumatlán de Régules,34.9
+856,Los Reyes,33.6
+857,Sahuayo,35
+858,San Lucas,32
+859,Santa Ana Maya,34.2
+860,Salvador Escalante,33.6
+861,Senguio,38.5
+862,Susupuato,36.8
+863,Tacámbaro,35.6
+864,Tancítaro,36.4
+865,Tangamandapio,35.8
+866,Tangancícuaro,30.9
+867,Tanhuato,31.9
+868,Taretan,32.2
+869,Tarímbaro,30.6
+870,Tepalcatepec,34.8
+871,Tingambato,33.9
+872,Tingüindín,34.3
+873,Tiquicheo de Nicolás Romero,37.9
+874,Tlalpujahua,38.6
+875,Tlazazalca,31.1
+876,Tocumbo,32.4
+877,Tumbiscatío,39
+878,Turicato,36.3
+879,Tuxpan,34.8
+880,Tuzantla,37
+881,Tzintzuntzan,34.9
+882,Tzitzio,39.5
+883,Uruapan,33.9
+884,Venustiano Carranza,32.6
+885,Villamar,34.1
+886,Vista Hermosa,31.7
+887,Yurécuaro,32.5
+888,Zacapu,32.3
+889,Zamora,32.3
+890,Zináparo,35.2
+891,Zinapécuaro,34.7
+892,Ziracuaretiro,33.8
+893,Zitácuaro,36.3
+894,José Sixto Verduzco,31.4
+895,Amacuzac,33.5
+896,Atlatlahucan,31.6
+897,Axochiapan,35
+898,Ayala,33.8
+899,Coatlán del Río,34.3
+900,Cuautla,34.4
+901,Cuernavaca,35.6
+902,Emiliano Zapata,32.8
+903,Huitzilac,32.4
+904,Jantetelco,34.5
+905,Jiutepec,34.8
+906,Jojutla,33.5
+907,Jonacatepec,35.4
+908,Mazatepec,34
+909,Miacatlán,34.9
+910,Ocuituco,33.9
+911,Puente de Ixtla,32.8
+912,Temixco,34.4
+913,Tepalcingo,34.3
+914,Tepoztlán,33.4
+915,Tetecala,34.4
+916,Tetela del Volcán,36.2
+917,Tlalnepantla,30
+918,Tlaltizapán,32.9
+919,Tlaquiltenango,33.9
+920,Tlayacapan,30.5
+921,Totolapan,30.9
+922,Xochitepec,32.8
+923,Yautepec,32.5
+924,Yecapixtla,34
+925,Zacatepec,34.1
+926,Zacualpan,33.1
+927,Temoac,37.1
+928,Acaponeta,34.2
+929,Ahuacatlán,33.6
+930,Amatlán de Cañas,32.3
+931,Compostela,32.1
+932,Huajicori,37.7
+933,Ixtlán del Río,36.1
+934,Jala,35
+935,Xalisco,33.8
+936,Del Nayar,33.9
+937,Rosamorada,31.5
+938,Ruíz,32.7
+939,San Blas,30.5
+940,San Pedro Lagunillas,30.7
+941,Santa María del Oro,33.2
+942,Santiago Ixcuintla,30
+943,Tecuala,31.8
+944,Tepic,35.7
+945,Tuxpan,31.5
+946,La Yesca,36.9
+947,Bahía de Banderas,32.3
+948,Abasolo,31.4
+949,Agualeguas,27.5
+950,Los Aldamas,28.2
+951,Allende,29.7
+952,Anáhuac,32.3
+953,Apodaca,30.3
+954,Aramberri,30.7
+955,Bustamante,30.5
+956,Cadereyta Jiménez,29.7
+957,Carmen,26.8
+958,Cerralvo,29.1
+959,Ciénega de Flores,28.3
+960,China,29.1
+961,Dr. Arroyo,29.4
+962,Dr. Coss,28.5
+963,Dr. González,28.8
+964,Galeana,30.6
+965,García,24.2
+966,San Pedro Garza García,40
+967,Gral. Bravo,26.8
+968,Gral. Escobedo,31.4
+969,Gral. Terán,28.2
+970,Gral. Treviño,27.2
+971,Gral. Zaragoza,34.6
+972,Gral. Zuazua,23
+973,Guadalupe,34.5
+974,Los Herreras,26.1
+975,Higueras,29.4
+976,Hualahuises,30.9
+977,Iturbide,32.9
+978,Juárez,26.7
+979,Lampazos de Naranjo,29.6
+980,Linares,31.6
+981,Marín,30.6
+982,Melchor Ocampo,25.3
+983,Mier y Noriega,30.2
+984,Mina,31.5
+985,Montemorelos,31.5
+986,Monterrey,35.3
+987,Parás,26.6
+988,Pesquería,28.6
+989,Los Ramones,29.2
+990,Rayones,29.3
+991,Sabinas Hidalgo,30.5
+992,Salinas Victoria,29.8
+993,San Nicolás de los Garza,37.3
+994,Hidalgo,30.4
+995,Santa Catarina,33.3
+996,Santiago,31.6
+997,Vallecillo,28.1
+998,Villaldama,32.7
+999,Abejones,40.1
+1000,Acatlán de Pérez Figueroa,35.5
+1001,Asunción Cacalotepec,32.7
+1002,Asunción Cuyotepeji,42.2
+1003,Asunción Ixtaltepec,32.8
+1004,Asunción Nochixtlán,35.7
+1005,Asunción Ocotlán,33.3
+1006,Asunción Tlacolulita,31.2
+1007,Ayotzintepec,38
+1008,El Barrio de la Soledad,32.7
+1009,Calihualá,38.1
+1010,Candelaria Loxicha,36.4
+1011,Ciénega de Zimatlán,32.4
+1012,Ciudad Ixtepec,33.1
+1013,Coatecas Altas,33.4
+1014,Coicoyán de las Flores,38.6
+1015,La Compañía,33.4
+1016,Concepción Buenavista,36.4
+1017,Concepción Pápalo,32.1
+1018,Constancia del Rosario,39.8
+1019,Cosolapa,35.4
+1020,Cosoltepec,29.2
+1021,Cuilápam de Guerrero,33
+1022,Cuyamecalco Villa de Zaragoza,38.7
+1023,Chahuites,30.6
+1024,Chalcatongo de Hidalgo,32.3
+1025,Chiquihuitlán de Benito Juárez,33.6
+1026,Heroica Ciudad de Ejutla de Crespo,35
+1027,Eloxochitlán de Flores Magón,35.2
+1028,El Espinal,32.2
+1029,Tamazulápam del Espíritu Santo,36.1
+1030,Fresnillo de Trujano,37.4
+1031,Guadalupe Etla,36
+1032,Guadalupe de Ramírez,34
+1033,Guelatao de Juárez,40.2
+1034,Guevea de Humboldt,34.5
+1035,Mesones Hidalgo,35.2
+1036,Villa Hidalgo,37.6
+1037,Heroica Ciudad de Huajuapan de León,39.7
+1038,Huautepec,38.8
+1039,Huautla de Jiménez,37.5
+1040,Ixtlán de Juárez,36.1
+1041,Heroica Ciudad de Juchitán de Zaragoza,33.2
+1042,Loma Bonita,33
+1043,Magdalena Apasco,34.2
+1044,Magdalena Jaltepec,29.9
+1045,Santa Magdalena Jicotlán,31.6
+1046,Magdalena Mixtepec,37.2
+1047,Magdalena Ocotlán,32.9
+1048,Magdalena Peñasco,32.7
+1049,Magdalena Teitipac,27.7
+1050,Magdalena Tequisistlán,33.8
+1051,Magdalena Tlacotepec,28.1
+1052,Magdalena Zahuatlán,36.9
+1053,Mariscala de Juárez,37.1
+1054,Mártires de Tacubaya,33.5
+1055,Matías Romero Avendaño,34.6
+1056,Mazatlán Villa de Flores,33
+1057,Miahuatlán de Porfirio Díaz,37.1
+1058,Mixistlán de la Reforma,35
+1059,Monjas,35.4
+1060,Natividad,41.6
+1061,Nazareno Etla,35.6
+1062,Nejapa de Madero,34.6
+1063,Ixpantepec Nieves,27.6
+1064,Santiago Niltepec,32.7
+1065,Oaxaca de Juárez,39.4
+1066,Ocotlán de Morelos,38.1
+1067,La Pe,33.1
+1068,Pinotepa de Don Luis,34.4
+1069,Pluma Hidalgo,41
+1070,San José del Progreso,35.5
+1071,Putla Villa de Guerrero,37.7
+1072,Santa Catarina Quioquitani,35.8
+1073,Reforma de Pineda,28.5
+1074,La Reforma,40.2
+1075,Reyes Etla,37.8
+1076,Rojas de Cuauhtémoc,33.9
+1077,Salina Cruz,33.7
+1078,San Agustín Amatengo,27.8
+1079,San Agustín Atenango,33.1
+1080,San Agustín Chayuco,37.5
+1081,San Agustín de las Juntas,36.5
+1082,San Agustín Etla,32.8
+1083,San Agustín Loxicha,37.9
+1084,San Agustín Tlacotepec,31.5
+1085,San Agustín Yatareni,32.7
+1086,San Andrés Cabecera Nueva,36.7
+1087,San Andrés Dinicuiti,36.9
+1088,San Andrés Huaxpaltepec,37.1
+1089,San Andrés Huayápam,36.4
+1090,San Andrés Ixtlahuaca,33.1
+1091,San Andrés Lagunas,29.8
+1092,San Andrés Nuxiño,32.3
+1093,San Andrés Paxtlán,38.7
+1094,San Andrés Sinaxtla,33.3
+1095,San Andrés Solaga,30
+1096,San Andrés Teotilálpam,40.4
+1097,San Andrés Tepetlapa,40.3
+1098,San Andrés Yaá,26.9
+1099,San Andrés Zabache,34.8
+1100,San Andrés Zautla,36.6
+1101,San Antonino Castillo Velasco,35.1
+1102,San Antonino el Alto,35.2
+1103,San Antonino Monte Verde,33.6
+1104,San Antonio Acutla,28.7
+1105,San Antonio de la Cal,38.7
+1106,San Antonio Huitepec,35.3
+1107,San Antonio Nanahuatípam,39.5
+1108,San Antonio Sinicahua,31.5
+1109,San Antonio Tepetlapa,37.8
+1110,San Baltazar Chichicápam,29.1
+1111,San Baltazar Loxicha,31.1
+1112,San Baltazar Yatzachi el Bajo,26.4
+1113,San Bartolo Coyotepec,34.7
+1114,San Bartolomé Ayautla,36.9
+1115,San Bartolomé Loxicha,36.9
+1116,San Bartolomé Quialana,33.8
+1117,San Bartolomé Yucuañe,42.8
+1118,San Bartolomé Zoogocho,35.6
+1119,San Bartolo Soyaltepec,28
+1120,San Bartolo Yautepec,31.2
+1121,San Bernardo Mixtepec,33.5
+1122,San Blas Atempa,31.1
+1123,San Carlos Yautepec,38.7
+1124,San Cristóbal Amatlán,33.3
+1125,San Cristóbal Amoltepec,31.7
+1126,San Cristóbal Lachirioag,23.4
+1127,San Cristóbal Suchixtlahuaca,28.7
+1128,San Dionisio del Mar,29.9
+1129,San Dionisio Ocotepec,35.2
+1130,San Dionisio Ocotlán,35.1
+1131,San Esteban Atatlahuca,30.2
+1132,San Felipe Jalapa de Díaz,40.5
+1133,San Felipe Tejalápam,34.4
+1134,San Felipe Usila,38.7
+1135,San Francisco Cahuacuá,36.2
+1136,San Francisco Cajonos,24
+1137,San Francisco Chapulapa,39.5
+1138,San Francisco Chindúa,30.6
+1139,San Francisco del Mar,30.4
+1140,San Francisco Huehuetlán,33.6
+1141,San Francisco Ixhuatán,31.1
+1142,San Francisco Jaltepetongo,30.3
+1143,San Francisco Lachigoló,35.1
+1144,San Francisco Logueche,34.7
+1145,San Francisco Nuxaño,31.8
+1146,San Francisco Ozolotepec,36
+1147,San Francisco Sola,36.4
+1148,San Francisco Telixtlahuaca,36.3
+1149,San Francisco Teopan,31
+1150,San Francisco Tlapancingo,36.8
+1151,San Gabriel Mixtepec,37
+1152,San Ildefonso Amatlán,29.5
+1153,San Ildefonso Sola,39.2
+1154,San Ildefonso Villa Alta,30.9
+1155,San Jacinto Amilpas,37.2
+1156,San Jacinto Tlacotepec,42.1
+1157,San Jerónimo Coatlán,42
+1158,San Jerónimo Silacayoapilla,36.1
+1159,San Jerónimo Sosola,35.1
+1160,San Jerónimo Taviche,36.1
+1161,San Jerónimo Tecóatl,29.5
+1162,San Jorge Nuchita,36.8
+1163,San José Ayuquila,36.4
+1164,San José Chiltepec,35.9
+1165,San José del Peñasco,32.7
+1166,San José Estancia Grande,33.2
+1167,San José Independencia,34.3
+1168,San José Lachiguiri,41.5
+1169,San José Tenango,38.1
+1170,San Juan Achiutla,34.4
+1171,San Juan Atepec,30.4
+1172,Ánimas Trujano,36.5
+1173,San Juan Bautista Atatlahuca,37.8
+1174,San Juan Bautista Coixtlahuaca,32.5
+1175,San Juan Bautista Cuicatlán,34.1
+1176,San Juan Bautista Guelache,35.7
+1177,San Juan Bautista Jayacatlán,33.1
+1178,San Juan Bautista Lo de Soto,34.9
+1179,San Juan Bautista Suchitepec,39.3
+1180,San Juan Bautista Tlacoatzintepec,40.9
+1181,San Juan Bautista Tlachichilco,36
+1182,San Juan Bautista Tuxtepec,34.7
+1183,San Juan Cacahuatepec,40.5
+1184,San Juan Cieneguilla,30.5
+1185,San Juan Coatzóspam,42
+1186,San Juan Colorado,36.1
+1187,San Juan Comaltepec,37.2
+1188,San Juan Cotzocón,34.9
+1189,San Juan Chicomezúchil,27.7
+1190,San Juan Chilateca,33.8
+1191,San Juan del Estado,34.5
+1192,San Juan del Río,23.7
+1193,San Juan Diuxi,28.4
+1194,San Juan Evangelista Analco,29.7
+1195,San Juan Guelavía,27.6
+1196,San Juan Guichicovi,32.1
+1197,San Juan Ihualtepec,30.8
+1198,San Juan Juquila Mixes,35.8
+1199,San Juan Juquila Vijanos,36.1
+1200,San Juan Lachao,39.9
+1201,San Juan Lachigalla,37.2
+1202,San Juan Lajarcia,34.3
+1203,San Juan Lalana,36.3
+1204,San Juan de los Cués,32.4
+1205,San Juan Mazatlán,37
+1206,San Juan Mixtepec -Dto. 08 -,36
+1207,San Juan Mixtepec -Dto. 26 -,43.7
+1208,San Juan Ñumí,37.4
+1209,San Juan Ozolotepec,39.9
+1210,San Juan Petlapa,32.8
+1211,San Juan Quiahije,40.4
+1212,San Juan Quiotepec,37
+1213,San Juan Sayultepec,29.6
+1214,San Juan Tabaá,37.9
+1215,San Juan Tamazola,31
+1216,San Juan Teita,25.7
+1217,San Juan Teitipac,31.5
+1218,San Juan Tepeuxila,30.5
+1219,San Juan Teposcolula,33.3
+1220,San Juan Yaeé,31.7
+1221,San Juan Yatzona,30.2
+1222,San Juan Yucuita,38.4
+1223,San Lorenzo,35.1
+1224,San Lorenzo Albarradas,33
+1225,San Lorenzo Cacaotepec,34.7
+1226,San Lorenzo Cuaunecuiltitla,35.2
+1227,San Lorenzo Texmelúcan,36.2
+1228,San Lorenzo Victoria,38.5
+1229,San Lucas Camotlán,37.8
+1230,San Lucas Ojitlán,40.2
+1231,San Lucas Quiaviní,36.1
+1232,San Lucas Zoquiápam,38.2
+1233,San Luis Amatlán,35.3
+1234,San Marcial Ozolotepec,35.6
+1235,San Marcos Arteaga,35.3
+1236,San Martín de los Cansecos,32
+1237,San Martín Huamelúlpam,38.7
+1238,San Martín Itunyoso,37.3
+1239,San Martín Lachilá,28.8
+1240,San Martín Peras,37.6
+1241,San Martín Tilcajete,33.4
+1242,San Martín Toxpalan,34.6
+1243,San Martín Zacatepec,32.5
+1244,San Mateo Cajonos,30.8
+1245,Capulálpam de Méndez,35.4
+1246,San Mateo del Mar,37.9
+1247,San Mateo Yoloxochitlán,37.5
+1248,San Mateo Etlatongo,32
+1249,San Mateo Nejápam,34.6
+1250,San Mateo Peñasco,32.9
+1251,San Mateo Piñas,35.7
+1252,San Mateo Río Hondo,38.6
+1253,San Mateo Sindihui,31.6
+1254,San Mateo Tlapiltepec,29.2
+1255,San Melchor Betaza,30.8
+1256,San Miguel Achiutla,34.5
+1257,San Miguel Ahuehuetitlán,37
+1258,San Miguel Aloápam,38.8
+1259,San Miguel Amatitlán,40
+1260,San Miguel Amatlán,33.3
+1261,San Miguel Coatlán,29.6
+1262,San Miguel Chicahua,31.1
+1263,San Miguel Chimalapa,36.2
+1264,San Miguel del Puerto,40.2
+1265,San Miguel del Río,38.1
+1266,San Miguel Ejutla,33.6
+1267,San Miguel el Grande,37
+1268,San Miguel Huautla,35.8
+1269,San Miguel Mixtepec,37.5
+1270,San Miguel Panixtlahuaca,38.8
+1271,San Miguel Peras,35.8
+1272,San Miguel Piedras,35.3
+1273,San Miguel Quetzaltepec,35.5
+1274,San Miguel Santa Flor,36.3
+1275,Villa Sola de Vega,40
+1276,San Miguel Soyaltepec,35.9
+1277,San Miguel Suchixtepec,42.1
+1278,Villa Talea de Castro,33.1
+1279,San Miguel Tecomatlán,28.6
+1280,San Miguel Tenango,33.3
+1281,San Miguel Tequixtepec,30.3
+1282,San Miguel Tilquiápam,34.3
+1283,San Miguel Tlacamama,39.9
+1284,San Miguel Tlacotepec,35.3
+1285,San Miguel Tulancingo,30.7
+1286,San Miguel Yotao,34.2
+1287,San Nicolás,29.8
+1288,San Nicolás Hidalgo,36.1
+1289,San Pablo Coatlán,36.4
+1290,San Pablo Cuatro Venados,37.9
+1291,San Pablo Etla,35.8
+1292,San Pablo Huitzo,36.4
+1293,San Pablo Huixtepec,33.8
+1294,San Pablo Macuiltianguis,28.9
+1295,San Pablo Tijaltepec,28.7
+1296,San Pablo Villa de Mitla,33.7
+1297,San Pablo Yaganiza,32.6
+1298,San Pedro Amuzgos,39.5
+1299,San Pedro Apóstol,39.9
+1300,San Pedro Atoyac,38.2
+1301,San Pedro Cajonos,35.5
+1302,San Pedro Coxcaltepec Cántaros,32.8
+1303,San Pedro Comitancillo,34.7
+1304,San Pedro el Alto,33.8
+1305,San Pedro Huamelula,34.3
+1306,San Pedro Huilotepec,34.9
+1307,San Pedro Ixcatlán,35.7
+1308,San Pedro Ixtlahuaca,33.8
+1309,San Pedro Jaltepetongo,26.2
+1310,San Pedro Jicayán,37.1
+1311,San Pedro Jocotipac,27.8
+1312,San Pedro Juchatengo,42.8
+1313,San Pedro Mártir,34.2
+1314,San Pedro Mártir Quiechapa,36.1
+1315,San Pedro Mártir Yucuxaco,39.1
+1316,San Pedro Mixtepec -Dto. 22 -,35.6
+1317,San Pedro Mixtepec -Dto. 26 -,38
+1318,San Pedro Molinos,34.8
+1319,San Pedro Nopala,32.8
+1320,San Pedro Ocopetatillo,27.8
+1321,San Pedro Ocotepec,40.1
+1322,San Pedro Pochutla,37.8
+1323,San Pedro Quiatoni,38.8
+1324,San Pedro Sochiápam,37.4
+1325,San Pedro Tapanatepec,31
+1326,San Pedro Taviche,42.3
+1327,San Pedro Teozacoalco,35.5
+1328,San Pedro Teutila,38.4
+1329,San Pedro Tidaá,23.2
+1330,San Pedro Topiltepec,29.2
+1331,San Pedro Totolápam,34.8
+1332,Villa de Tututepec de Melchor Ocampo,35.1
+1333,San Pedro Yaneri,33.1
+1334,San Pedro Yólox,35.5
+1335,San Pedro y San Pablo Ayutla,36
+1336,Villa de Etla,38.7
+1337,San Pedro y San Pablo Teposcolula,35.1
+1338,San Pedro y San Pablo Tequixtepec,38.6
+1339,San Pedro Yucunama,35.4
+1340,San Raymundo Jalpan,35.8
+1341,San Sebastián Abasolo,32.5
+1342,San Sebastián Coatlán,40.2
+1343,San Sebastián Ixcapa,37
+1344,San Sebastián Nicananduta,25.3
+1345,San Sebastián Río Hondo,38.6
+1346,San Sebastián Tecomaxtlahuaca,37.4
+1347,San Sebastián Teitipac,34.5
+1348,San Sebastián Tutla,42.2
+1349,San Simón Almolongas,30.5
+1350,San Simón Zahuatlán,39.6
+1351,Santa Ana,36.8
+1352,Santa Ana Ateixtlahuaca,33.4
+1353,Santa Ana Cuauhtémoc,35.1
+1354,Santa Ana del Valle,35
+1355,Santa Ana Tavela,35.3
+1356,Santa Ana Tlapacoyan,31
+1357,Santa Ana Yareni,32.2
+1358,Santa Ana Zegache,37.7
+1359,Santa Catalina Quierí,37.6
+1360,Santa Catarina Cuixtla,32.7
+1361,Santa Catarina Ixtepeji,36.4
+1362,Santa Catarina Juquila,38.8
+1363,Santa Catarina Lachatao,29.2
+1364,Santa Catarina Loxicha,34.6
+1365,Santa Catarina Mechoacán,35.1
+1366,Santa Catarina Minas,39
+1367,Santa Catarina Quiané,31.8
+1368,Santa Catarina Tayata,36.9
+1369,Santa Catarina Ticuá,33.2
+1370,Santa Catarina Yosonotú,36.4
+1371,Santa Catarina Zapoquila,29.1
+1372,Santa Cruz Acatepec,39.6
+1373,Santa Cruz Amilpas,38.4
+1374,Santa Cruz de Bravo,28.7
+1375,Santa Cruz Itundujia,37
+1376,Santa Cruz Mixtepec,36.5
+1377,Santa Cruz Nundaco,40
+1378,Santa Cruz Papalutla,32
+1379,Santa Cruz Tacache de Mina,32.1
+1380,Santa Cruz Tacahua,29.2
+1381,Santa Cruz Tayata,40.9
+1382,Santa Cruz Xitla,34.5
+1383,Santa Cruz Xoxocotlán,37.5
+1384,Santa Cruz Zenzontepec,41.5
+1385,Santa Gertrudis,31.1
+1386,Santa Inés del Monte,36.8
+1387,Santa Inés Yatzeche,43.9
+1388,Santa Lucía del Camino,40.6
+1389,Santa Lucía Miahuatlán,30
+1390,Santa Lucía Monteverde,33.6
+1391,Santa Lucía Ocotlán,35.4
+1392,Santa María Alotepec,32.6
+1393,Santa María Apazco,31.4
+1394,Santa María la Asunción,40
+1395,Heroica Ciudad de Tlaxiaco,39.2
+1396,Ayoquezco de Aldama,33.2
+1397,Santa María Atzompa,37.6
+1398,Santa María Camotlán,35.7
+1399,Santa María Colotepec,37.1
+1400,Santa María Cortijo,32.3
+1401,Santa María Coyotepec,33.6
+1402,Santa María Chachoápam,31.4
+1403,Villa de Chilapa de Díaz,30.2
+1404,Santa María Chilchotla,38
+1405,Santa María Chimalapa,38.1
+1406,Santa María del Rosario,30.6
+1407,Santa María del Tule,36.8
+1408,Santa María Ecatepec,34
+1409,Santa María Guelacé,35.3
+1410,Santa María Guienagati,35.5
+1411,Santa María Huatulco,35.8
+1412,Santa María Huazolotitlán,34.2
+1413,Santa María Ipalapa,35.8
+1414,Santa María Ixcatlán,29
+1415,Santa María Jacatepec,35.8
+1416,Santa María Jalapa del Marqués,34.2
+1417,Santa María Jaltianguis,33.5
+1418,Santa María Lachixío,41.5
+1419,Santa María Mixtequilla,32.6
+1420,Santa María Nativitas,37.5
+1421,Santa María Nduayaco,38.4
+1422,Santa María Ozolotepec,40.4
+1423,Santa María Pápalo,34.8
+1424,Santa María Peñoles,35
+1425,Santa María Petapa,33.4
+1426,Santa María Quiegolani,41.4
+1427,Santa María Sola,39.6
+1428,Santa María Tataltepec,25.4
+1429,Santa María Tecomavaca,34.7
+1430,Santa María Temaxcalapa,31.3
+1431,Santa María Temaxcaltepec,32.9
+1432,Santa María Teopoxco,38
+1433,Santa María Tepantlali,32.5
+1434,Santa María Texcatitlán,31.1
+1435,Santa María Tlahuitoltepec,39.9
+1436,Santa María Tlalixtac,41.5
+1437,Santa María Tonameca,36.6
+1438,Santa María Totolapilla,28.9
+1439,Santa María Xadani,30.4
+1440,Santa María Yalina,35.8
+1441,Santa María Yavesía,27.1
+1442,Santa María Yolotepec,38.2
+1443,Santa María Yosoyúa,40.6
+1444,Santa María Yucuhiti,37.4
+1445,Santa María Zacatepec,38.9
+1446,Santa María Zaniza,37.1
+1447,Santa María Zoquitlán,36.3
+1448,Santiago Amoltepec,33.1
+1449,Santiago Apoala,19.7
+1450,Santiago Apóstol,37.8
+1451,Santiago Astata,34.3
+1452,Santiago Atitlán,37.1
+1453,Santiago Ayuquililla,40.7
+1454,Santiago Cacaloxtepec,33
+1455,Santiago Camotlán,37.5
+1456,Santiago Comaltepec,34.5
+1457,Santiago Chazumba,36.2
+1458,Santiago Choápam,36.2
+1459,Santiago del Río,27.9
+1460,Santiago Huajolotitlán,38.2
+1461,Santiago Huauclilla,30.4
+1462,Santiago Ihuitlán Plumas,30.2
+1463,Santiago Ixcuintepec,37
+1464,Santiago Ixtayutla,36.7
+1465,Santiago Jamiltepec,35.4
+1466,Santiago Jocotepec,38.7
+1467,Santiago Juxtlahuaca,37.6
+1468,Santiago Lachiguiri,33.5
+1469,Santiago Lalopa,36.4
+1470,Santiago Laollaga,31.6
+1471,Santiago Laxopa,38.8
+1472,Santiago Llano Grande,36.7
+1473,Santiago Matatlán,34.9
+1474,Santiago Miltepec,41
+1475,Santiago Minas,37.2
+1476,Santiago Nacaltepec,29.7
+1477,Santiago Nejapilla,29.2
+1478,Santiago Nundiche,28.5
+1479,Santiago Nuyoó,29.3
+1480,Santiago Pinotepa Nacional,37.3
+1481,Santiago Suchilquitongo,36
+1482,Santiago Tamazola,39.7
+1483,Santiago Tapextla,36.6
+1484,Villa Tejúpam de la Unión,33.3
+1485,Santiago Tenango,38.7
+1486,Santiago Tepetlapa,29.6
+1487,Santiago Tetepec,36.7
+1488,Santiago Texcalcingo,35.1
+1489,Santiago Textitlán,41.3
+1490,Santiago Tilantongo,31.9
+1491,Santiago Tillo,31.3
+1492,Santiago Tlazoyaltepec,35.9
+1493,Santiago Xanica,35.9
+1494,Santiago Xiacuí,35.6
+1495,Santiago Yaitepec,40.2
+1496,Santiago Yaveo,35
+1497,Santiago Yolomécatl,34.8
+1498,Santiago Yosondúa,31.9
+1499,Santiago Yucuyachi,30.9
+1500,Santiago Zacatepec,34.2
+1501,Santiago Zoochila,34
+1502,Nuevo Zoquiápam,33.7
+1503,Santo Domingo Ingenio,30.3
+1504,Santo Domingo Albarradas,33.7
+1505,Santo Domingo Armenta,36.9
+1506,Santo Domingo Chihuitán,32.8
+1507,Santo Domingo de Morelos,37.8
+1508,Santo Domingo Ixcatlán,36.1
+1509,Santo Domingo Nuxaá,36.4
+1510,Santo Domingo Ozolotepec,45.7
+1511,Santo Domingo Petapa,31.9
+1512,Santo Domingo Roayaga,33.6
+1513,Santo Domingo Tehuantepec,34.6
+1514,Santo Domingo Teojomulco,37.7
+1515,Santo Domingo Tepuxtepec,31.3
+1516,Santo Domingo Tlatayápam,25.8
+1517,Santo Domingo Tomaltepec,31.5
+1518,Santo Domingo Tonalá,33
+1519,Santo Domingo Tonaltepec,30.3
+1520,Santo Domingo Xagacía,33.8
+1521,Santo Domingo Yanhuitlán,35.3
+1522,Santo Domingo Yodohino,26.5
+1523,Santo Domingo Zanatepec,29.6
+1524,Santos Reyes Nopala,37.9
+1525,Santos Reyes Pápalo,31.3
+1526,Santos Reyes Tepejillo,27.1
+1527,Santos Reyes Yucuná,40.8
+1528,Santo Tomás Jalieza,31.4
+1529,Santo Tomás Mazaltepec,32.1
+1530,Santo Tomás Ocotepec,37.2
+1531,Santo Tomás Tamazulapan,36.2
+1532,San Vicente Coatlán,30.3
+1533,San Vicente Lachixío,38.5
+1534,San Vicente Nuñú,29.5
+1535,Silacayoápam,35.7
+1536,Sitio de Xitlapehua,38.7
+1537,Soledad Etla,32.7
+1538,Villa de Tamazulápam del Progreso,37
+1539,Tanetze de Zaragoza,29.9
+1540,Taniche,29.7
+1541,Tataltepec de Valdés,39.1
+1542,Teococuilco de Marcos Pérez,31.6
+1543,Teotitlán de Flores Magón,38.6
+1544,Teotitlán del Valle,34.2
+1545,Teotongo,29.4
+1546,Tepelmeme Villa de Morelos,29.3
+1547,Tezoatlán de Segura y Luna,35.3
+1548,San Jerónimo Tlacochahuaya,34.2
+1549,Tlacolula de Matamoros,35
+1550,Tlacotepec Plumas,25.7
+1551,Tlalixtac de Cabrera,35.1
+1552,Totontepec Villa de Morelos,34.9
+1553,Trinidad Zaachila,33.7
+1554,La Trinidad Vista Hermosa,26.5
+1555,Unión Hidalgo,32.1
+1556,Valerio Trujano,34.1
+1557,San Juan Bautista Valle Nacional,38.7
+1558,Villa Díaz Ordaz,32.2
+1559,Yaxe,37.6
+1560,Magdalena Yodocono de Porfirio Díaz,37.1
+1561,Yogana,33.5
+1562,Yutanduchi de Guerrero,32.6
+1563,Villa de Zaachila,35.2
+1564,San Mateo Yucutindó,38.7
+1565,Zapotitlán Lagunas,34.1
+1566,Zapotitlán Palmas,32.4
+1567,Santa Inés de Zaragoza,26.9
+1568,Zimatlán de Álvarez,35
+1569,Acajete,35.7
+1570,Acateno,33.1
+1571,Acatlán,38.9
+1572,Acatzingo,35.7
+1573,Acteopan,34.8
+1574,Ahuacatlán,35.1
+1575,Ahuatlán,37.4
+1576,Ahuazotepec,32
+1577,Ahuehuetitla,32.6
+1578,Ajalpan,37.6
+1579,Albino Zertuche,32.2
+1580,Aljojuca,33.9
+1581,Altepexi,29.8
+1582,Amixtlán,36.6
+1583,Amozoc,35.7
+1584,Aquixtla,37.8
+1585,Atempan,36
+1586,Atexcal,35.1
+1587,Atlixco,36.5
+1588,Atoyatempan,33.6
+1589,Atzala,36.4
+1590,Atzitzihuacán,34.5
+1591,Atzitzintla,34.6
+1592,Axutla,33.4
+1593,Ayotoxco de Guerrero,35.9
+1594,Calpan,36.4
+1595,Caltepec,38.2
+1596,Camocuautla,34.4
+1597,Caxhuacan,35.5
+1598,Coatepec,35.7
+1599,Coatzingo,31.5
+1600,Cohetzala,33.6
+1601,Cohuecan,38.1
+1602,Coronango,36.6
+1603,Coxcatlán,39.9
+1604,Coyomeapan,36.7
+1605,Coyotepec,27.8
+1606,Cuapiaxtla de Madero,35.3
+1607,Cuautempan,35.5
+1608,Cuautinchán,36.2
+1609,Cuautlancingo,32.6
+1610,Cuayuca de Andrade,34.8
+1611,Cuetzalan del Progreso,35.8
+1612,Cuyoaco,34.5
+1613,Chalchicomula de Sesma,34.6
+1614,Chapulco,36.2
+1615,Chiautla,36.5
+1616,Chiautzingo,35.6
+1617,Chiconcuautla,34.8
+1618,Chichiquila,38.4
+1619,Chietla,32.8
+1620,Chigmecatitlán,38.4
+1621,Chignahuapan,34.3
+1622,Chignautla,34.6
+1623,Chila,36.8
+1624,Chila de la Sal,32.7
+1625,Honey,34
+1626,Chilchotla,35.6
+1627,Chinantla,33.1
+1628,Domingo Arenas,36.5
+1629,Eloxochitlán,36.9
+1630,Epatlán,35.5
+1631,Esperanza,32.7
+1632,Francisco Z. Mena,32.8
+1633,General Felipe Ángeles,34.6
+1634,Guadalupe,39
+1635,Guadalupe Victoria,34.5
+1636,Hermenegildo Galeana,36.8
+1637,Huaquechula,36.8
+1638,Huatlatlauca,37.6
+1639,Huauchinango,36.1
+1640,Huehuetla,34.7
+1641,Huehuetlán el Chico,35.5
+1642,Huejotzingo,35.4
+1643,Hueyapan,32.9
+1644,Hueytamalco,34.8
+1645,Hueytlalpan,39.4
+1646,Huitzilan de Serdán,35.8
+1647,Huitziltepec,37.1
+1648,Atlequizayan,36.7
+1649,Ixcamilpa de Guerrero,35.5
+1650,Ixcaquixtla,35.9
+1651,Ixtacamaxtitlán,38.5
+1652,Ixtepec,37.1
+1653,Izúcar de Matamoros,37.2
+1654,Jalpan,36.2
+1655,Jolalpan,35.3
+1656,Jonotla,35.8
+1657,Jopala,37.1
+1658,Juan C. Bonilla,34.5
+1659,Juan Galindo,35.5
+1660,Juan N. Méndez,33.6
+1661,Lafragua,32.9
+1662,Libres,36.2
+1663,La Magdalena Tlatlauquitepec,35.6
+1664,Mazapiltepec de Juárez,31.6
+1665,Mixtla,41.6
+1666,Molcaxac,36.4
+1667,Cañada Morelos,33.1
+1668,Naupan,37.3
+1669,Nauzontla,35.6
+1670,Nealtican,35.4
+1671,Nicolás Bravo,37
+1672,Nopalucan,34.8
+1673,Ocotepec,36.2
+1674,Ocoyucan,39.1
+1675,Olintla,35.3
+1676,Oriental,35.4
+1677,Pahuatlán,35.9
+1678,Palmar de Bravo,37.3
+1679,Pantepec,34.7
+1680,Petlalcingo,36.9
+1681,Piaxtla,34.6
+1682,Puebla,37.4
+1683,Quecholac,34.1
+1684,Quimixtlán,38.5
+1685,Rafael Lara Grajales,35.6
+1686,Los Reyes de Juárez,34.6
+1687,San Andrés Cholula,37.4
+1688,San Antonio Cañada,40.8
+1689,San Diego la Mesa Tochimiltzingo,32.1
+1690,San Felipe Teotlalcingo,34.2
+1691,San Felipe Tepatlán,35
+1692,San Gabriel Chilac,36.8
+1693,San Gregorio Atzompa,35.3
+1694,San Jerónimo Tecuanipan,37.3
+1695,San Jerónimo Xayacatlán,33
+1696,San José Chiapa,34.1
+1697,San José Miahuatlán,31.2
+1698,San Juan Atenco,32.5
+1699,San Juan Atzompa,31.7
+1700,San Martín Texmelucan,34.2
+1701,San Martín Totoltepec,31.5
+1702,San Matías Tlalancaleca,33
+1703,San Miguel Ixitlán,27.2
+1704,San Miguel Xoxtla,33.7
+1705,San Nicolás Buenos Aires,31.7
+1706,San Nicolás de los Ranchos,33.6
+1707,San Pablo Anicano,40.4
+1708,San Pedro Cholula,36
+1709,San Pedro Yeloixtlahuaca,38.4
+1710,San Salvador el Seco,33.6
+1711,San Salvador el Verde,34
+1712,San Salvador Huixcolotla,31.3
+1713,San Sebastián Tlacotepec,38.8
+1714,Santa Catarina Tlaltempan,29.1
+1715,Santa Inés Ahuatempan,32.8
+1716,Santa Isabel Cholula,37.1
+1717,Santiago Miahuatlán,37.3
+1718,Huehuetlán el Grande,34.3
+1719,Santo Tomás Hueyotlipan,37.2
+1720,Soltepec,33.8
+1721,Tecali de Herrera,34.3
+1722,Tecamachalco,36.8
+1723,Tecomatlán,44.3
+1724,Tehuacán,37.7
+1725,Tehuitzingo,35
+1726,Tenampulco,31.4
+1727,Teopantlán,35.5
+1728,Teotlalco,34.9
+1729,Tepanco de López,37.5
+1730,Tepango de Rodríguez,42.6
+1731,Tepatlaxco de Hidalgo,35
+1732,Tepeaca,37.5
+1733,Tepemaxalco,42.6
+1734,Tepeojuma,34.7
+1735,Tepetzintla,34.5
+1736,Tepexco,38.6
+1737,Tepexi de Rodríguez,35.6
+1738,Tepeyahualco,33.8
+1739,Tepeyahualco de Cuauhtémoc,36.8
+1740,Tetela de Ocampo,36.9
+1741,Teteles de Avila Castillo,36.7
+1742,Teziutlán,36.3
+1743,Tianguismanalco,35.2
+1744,Tilapa,36.1
+1745,Tlacotepec de Benito Juárez,39.1
+1746,Tlacuilotepec,35.5
+1747,Tlachichuca,34.6
+1748,Tlahuapan,34.6
+1749,Tlaltenango,31.8
+1750,Tlanepantla,37.1
+1751,Tlaola,37.6
+1752,Tlapacoya,36.8
+1753,Tlapanalá,37.1
+1754,Tlatlauquitepec,35.8
+1755,Tlaxco,35.5
+1756,Tochimilco,38.2
+1757,Tochtepec,35
+1758,Totoltepec de Guerrero,33.8
+1759,Tulcingo,35.7
+1760,Tuzamapan de Galeana,36.3
+1761,Tzicatlacoyan,33.2
+1762,Venustiano Carranza,35.2
+1763,Vicente Guerrero,36.9
+1764,Xayacatlán de Bravo,33.8
+1765,Xicotepec,37.3
+1766,Xicotlán,38
+1767,Xiutetelco,32.8
+1768,Xochiapulco,33.5
+1769,Xochiltepec,35.3
+1770,Xochitlán de Vicente Suárez,35.1
+1771,Xochitlán Todos Santos,32.8
+1772,Yaonáhuac,35.2
+1773,Yehualtepec,35
+1774,Zacapala,33.2
+1775,Zacapoaxtla,35.8
+1776,Zacatlán,36.8
+1777,Zapotitlán,41.3
+1778,Zapotitlán de Méndez,37.1
+1779,Zaragoza,35.7
+1780,Zautla,34.2
+1781,Zihuateutla,36.4
+1782,Zinacatepec,35.1
+1783,Zongozotla,34.6
+1784,Zoquiapan,36.8
+1785,Zoquitlán,37.7
+1786,Amealco de Bonfil,39
+1787,Pinal de Amoles,40.8
+1788,Arroyo Seco,37.7
+1789,Cadereyta de Montes,37.8
+1790,Colón,38.6
+1791,Corregidora,35.2
+1792,Ezequiel Montes,37.8
+1793,Huimilpan,38.1
+1794,Jalpan de Serra,40.5
+1795,Landa de Matamoros,38.2
+1796,El Marqués,35.7
+1797,Pedro Escobedo,36.7
+1798,Peñamiller,38.2
+1799,Querétaro,38.4
+1800,San Joaquín,39.6
+1801,San Juan del Río,36.5
+1802,Tequisquiapan,38.1
+1803,Tolimán,38.7
+1804,Cozumel,32.9
+1805,Felipe Carrillo Puerto,35.6
+1806,Isla Mujeres,31
+1807,Othón P. Blanco,34.5
+1808,Benito Juárez,33.1
+1809,José María Morelos,36.4
+1810,Lázaro Cárdenas,32.6
+1811,Solidaridad,31.9
+1812,Tulum,32
+1813,Ahualulco,36.9
+1814,Alaquines,35.2
+1815,Aquismón,36.3
+1816,Armadillo de los Infante,34.9
+1817,Cárdenas,34
+1818,Catorce,33.3
+1819,Cedral,34.3
+1820,Cerritos,32.4
+1821,Cerro de San Pedro,33.7
+1822,Ciudad del Maíz,32.7
+1823,Ciudad Fernández,35
+1824,Tancanhuitz,39
+1825,Ciudad Valles,34.9
+1826,Coxcatlán,35.7
+1827,Charcas,33.3
+1828,Ebano,34.8
+1829,Guadalcázar,30.8
+1830,Huehuetlán,36.3
+1831,Lagunillas,34
+1832,Matehuala,34.2
+1833,Mexquitic de Carmona,38.2
+1834,Moctezuma,34.3
+1835,Rayón,34.8
+1836,Rioverde,36.2
+1837,Salinas,34.5
+1838,San Antonio,39
+1839,San Ciro de Acosta,35.9
+1840,San Luis Potosí,38.7
+1841,San Martín Chalchicuautla,34.5
+1842,San Nicolás Tolentino,34.5
+1843,Santa Catarina,33.9
+1844,Santa María del Río,39.9
+1845,Santo Domingo,31
+1846,San Vicente Tancuayalab,33.7
+1847,Soledad de Graciano Sánchez,35.4
+1848,Tamasopo,34.4
+1849,Tamazunchale,34.8
+1850,Tampacán,37
+1851,Tampamolón Corona,37
+1852,Tamuín,34.1
+1853,Tanlajás,37.4
+1854,Tanquián de Escobedo,34.2
+1855,Tierra Nueva,42
+1856,Vanegas,32.3
+1857,Venado,32.9
+1858,Villa de Arriaga,35.5
+1859,Villa de Guadalupe,31.5
+1860,Villa de la Paz,33.6
+1861,Villa de Ramos,31.5
+1862,Villa de Reyes,36.5
+1863,Villa Hidalgo,31.5
+1864,Villa Juárez,30.6
+1865,Axtla de Terrazas,34.2
+1866,Xilitla,36.2
+1867,Zaragoza,37.3
+1868,Villa de Arista,34.5
+1869,Matlapa,34.5
+1870,El Naranjo,32.1
+1871,Ahome,33.6
+1872,Angostura,30.8
+1873,Badiraguato,30.6
+1874,Concordia,34
+1875,Cosalá,36.1
+1876,Culiacán,35.2
+1877,Choix,33.2
+1878,Elota,32.1
+1879,Escuinapa,33.7
+1880,El Fuerte,33.2
+1881,Guasave,32.9
+1882,Mazatlán,33.9
+1883,Mocorito,31.8
+1884,Rosario,34.1
+1885,Salvador Alvarado,33
+1886,San Ignacio,32.8
+1887,Sinaloa,32.5
+1888,Navolato,32
+1889,Aconchi,32.9
+1890,Agua Prieta,34.2
+1891,Alamos,33.4
+1892,Altar,31.1
+1893,Arivechi,35.9
+1894,Arizpe,34.1
+1895,Atil,34.7
+1896,Bacadéhuachi,33.7
+1897,Bacanora,32.7
+1898,Bacerac,36.7
+1899,Bacoachi,31.4
+1900,Bácum,33.2
+1901,Banámichi,30.7
+1902,Baviácora,32.5
+1903,Bavispe,30.2
+1904,Benjamín Hill,31.8
+1905,Caborca,32.8
+1906,Cajeme,34.9
+1907,Cananea,32.8
+1908,Carbó,36.6
+1909,La Colorada,29.9
+1910,Cucurpe,27.7
+1911,Cumpas,32.5
+1912,Divisaderos,33.6
+1913,Empalme,32.4
+1914,Etchojoa,34.5
+1915,Fronteras,32
+1916,Granados,36.1
+1917,Guaymas,32.6
+1918,Hermosillo,36.7
+1919,Huachinera,31.5
+1920,Huásabas,31.8
+1921,Huatabampo,34.7
+1922,Huépac,26
+1923,Imuris,34.6
+1924,Magdalena,35.6
+1925,Mazatán,33.2
+1926,Moctezuma,35.4
+1927,Naco,35.9
+1928,Nácori Chico,31.6
+1929,Nacozari de García,32.9
+1930,Navojoa,34.7
+1931,Nogales,33.7
+1932,Onavas,35.3
+1933,Opodepe,34.2
+1934,Oquitoa,34
+1935,Pitiquito,33.6
+1936,Puerto Peñasco,30.3
+1937,Quiriego,31.2
+1938,Rayón,36.4
+1939,Rosario,33.8
+1940,Sahuaripa,33.2
+1941,San Felipe de Jesús,34.4
+1942,San Javier,31.1
+1943,San Luis Río Colorado,33
+1944,San Miguel de Horcasitas,34.9
+1945,San Pedro de la Cueva,29.8
+1946,Santa Ana,33.1
+1947,Santa Cruz,27
+1948,Sáric,29.8
+1949,Soyopa,26.5
+1950,Suaqui Grande,32.7
+1951,Tepache,33.2
+1952,Trincheras,33.2
+1953,Tubutama,34.2
+1954,Ures,34.8
+1955,Villa Hidalgo,26.5
+1956,Villa Pesqueira,32.1
+1957,Yécora,31.3
+1958,General Plutarco Elías Calles,32
+1959,Benito Juárez,32.8
+1960,San Ignacio Río Muerto,33.6
+1961,Balancán,32.5
+1962,Cárdenas,32.7
+1963,Centla,34.4
+1964,Centro,34.1
+1965,Comalcalco,33.2
+1966,Cunduacán,32.2
+1967,Emiliano Zapata,33.1
+1968,Huimanguillo,34.3
+1969,Jalapa,33.2
+1970,Jalpa de Méndez,34.2
+1971,Jonuta,33
+1972,Macuspana,34.6
+1973,Nacajuca,33.6
+1974,Paraíso,32.2
+1975,Tacotalpa,35.4
+1976,Teapa,32.7
+1977,Tenosique,33
+1978,Abasolo,30.9
+1979,Aldama,30.4
+1980,Altamira,31.3
+1981,Antiguo Morelos,31.9
+1982,Burgos,29.2
+1983,Bustamante,31.4
+1984,Camargo,29.8
+1985,Casas,30.4
+1986,Ciudad Madero,35.2
+1987,Cruillas,27.9
+1988,Gómez Farías,31.3
+1989,González,31.2
+1990,Güémez,31.4
+1991,Guerrero,27.2
+1992,Gustavo Díaz Ordaz,30.1
+1993,Hidalgo,31.8
+1994,Jaumave,32.4
+1995,Jiménez,31.5
+1996,Llera,30.1
+1997,Mainero,30.4
+1998,El Mante,32
+1999,Matamoros,33.4
+2000,Méndez,29
+2001,Mier,30.4
+2002,Miguel Alemán,31.9
+2003,Miquihuana,30.4
+2004,Nuevo Laredo,32.7
+2005,Nuevo Morelos,31.6
+2006,Ocampo,31.1
+2007,Padilla,30
+2008,Palmillas,28.8
+2009,Reynosa,31.5
+2010,Río Bravo,31.7
+2011,San Carlos,29
+2012,San Fernando,29.8
+2013,San Nicolás,32
+2014,Soto la Marina,29
+2015,Tampico,35.8
+2016,Tula,32.5
+2017,Valle Hermoso,30.9
+2018,Victoria,34.7
+2019,Villagrán,31
+2020,Xicoténcatl,30.6
+2021,Amaxac de Guerrero,35.6
+2022,Apetatitlán de Antonio Carvajal,37.3
+2023,Atlangatepec,34.8
+2024,Atltzayanca,35.9
+2025,Apizaco,35.5
+2026,Calpulalpan,33.6
+2027,El Carmen Tequexquitla,31.9
+2028,Cuapiaxtla,33
+2029,Cuaxomulco,34.7
+2030,Chiautempan,36.1
+2031,Muñoz de Domingo Arenas,33.1
+2032,Españita,34.5
+2033,Huamantla,34.7
+2034,Hueyotlipan,34.7
+2035,Ixtacuixtla de Mariano Matamoros,34.9
+2036,Ixtenco,34.8
+2037,Mazatecochco de José María Morelos,29.8
+2038,Contla de Juan Cuamatzi,38
+2039,Tepetitla de Lardizábal,34.5
+2040,Sanctórum de Lázaro Cárdenas,32.6
+2041,Nanacamilpa de Mariano Arista,33.7
+2042,Acuamanala de Miguel Hidalgo,36.4
+2043,Natívitas,36.3
+2044,Panotla,34.9
+2045,San Pablo del Monte,35.2
+2046,Santa Cruz Tlaxcala,34.4
+2047,Tenancingo,30.7
+2048,Teolocholco,35.4
+2049,Tepeyanco,35.9
+2050,Terrenate,34.5
+2051,Tetla de la Solidaridad,34.2
+2052,Tetlatlahuca,34.9
+2053,Tlaxcala,36.9
+2054,Tlaxco,35.5
+2055,Tocatlán,33.7
+2056,Totolac,35.7
+2057,Ziltlaltépec de Trinidad Sánchez Santos,35.5
+2058,Tzompantepec,33.7
+2059,Xaloztoc,34.2
+2060,Xaltocan,35.6
+2061,Papalotla de Xicohténcatl,33.3
+2062,Xicohtzinco,33.9
+2063,Yauhquemehcan,34.6
+2064,Zacatelco,34.8
+2065,Benito Juárez,31.2
+2066,Emiliano Zapata,35.7
+2067,Lázaro Cárdenas,32.4
+2068,La Magdalena Tlaltelulco,36.5
+2069,San Damián Texóloc,33.2
+2070,San Francisco Tetlanohcan,35.2
+2071,San Jerónimo Zacualpan,33.3
+2072,San José Teacalco,33.3
+2073,San Juan Huactzinco,37
+2074,San Lorenzo Axocomanitla,33.7
+2075,San Lucas Tecopilco,36.6
+2076,Santa Ana Nopalucan,32.4
+2077,Santa Apolonia Teacalco,37.3
+2078,Santa Catarina Ayometla,34.1
+2079,Santa Cruz Quilehtla,31.7
+2080,Santa Isabel Xiloxoxtla,36
+2081,Acajete,34.6
+2082,Acatlán,38.3
+2083,Acayucan,34.1
+2084,Actopan,30.8
+2085,Acula,27.3
+2086,Acultzingo,34.3
+2087,Camarón de Tejeda,31.5
+2088,Alpatláhuac,38.8
+2089,Alto Lucero de Gutiérrez Barrios,31.9
+2090,Altotonga,35.5
+2091,Alvarado,31.1
+2092,Amatitlán,29.5
+2093,Naranjos Amatlán,34.1
+2094,Amatlán de los Reyes,35.2
+2095,Angel R. Cabada,28.8
+2096,La Antigua,31.9
+2097,Apazapan,33.3
+2098,Aquila,34.8
+2099,Astacinga,36.1
+2100,Atlahuilco,32.7
+2101,Atoyac,33
+2102,Atzacan,33.3
+2103,Atzalan,36.2
+2104,Tlaltetela,37.3
+2105,Ayahualulco,34.4
+2106,Banderilla,34.2
+2107,Benito Juárez,34.9
+2108,Boca del Río,35.6
+2109,Calcahualco,39.4
+2110,Camerino Z. Mendoza,34.7
+2111,Carrillo Puerto,34.3
+2112,Catemaco,31.9
+2113,Cazones de Herrera,32.8
+2114,Cerro Azul,34.8
+2115,Citlaltépetl,36.4
+2116,Coacoatzintla,33.3
+2117,Coahuitlán,35.9
+2118,Coatepec,34.5
+2119,Coatzacoalcos,34
+2120,Coatzintla,33.4
+2121,Coetzala,37.6
+2122,Colipa,33.3
+2123,Comapa,40.2
+2124,Córdoba,36.4
+2125,Cosamaloapan de Carpio,31.5
+2126,Cosautlán de Carvajal,35.2
+2127,Coscomatepec,36.3
+2128,Cosoleacaque,33.9
+2129,Cotaxtla,31.9
+2130,Coxquihui,36
+2131,Coyutla,33.8
+2132,Cuichapa,36.7
+2133,Cuitláhuac,34.2
+2134,Chacaltianguis,29
+2135,Chalma,32.7
+2136,Chiconamel,34.1
+2137,Chiconquiaco,35.9
+2138,Chicontepec,33.2
+2139,Chinameca,33.6
+2140,Chinampa de Gorostiza,35.7
+2141,Las Choapas,35.6
+2142,Chocamán,32.9
+2143,Chontla,36
+2144,Chumatlán,37.8
+2145,Emiliano Zapata,32.6
+2146,Espinal,35.4
+2147,Filomeno Mata,35.8
+2148,Fortín,35.3
+2149,Gutiérrez Zamora,33.4
+2150,Hidalgotitlán,35.6
+2151,Huatusco,39.2
+2152,Huayacocotla,33
+2153,Hueyapan de Ocampo,30.5
+2154,Huiloapan de Cuauhtémoc,33.4
+2155,Ignacio de la Llave,31.2
+2156,Ilamatlán,32.3
+2157,Isla,30.2
+2158,Ixcatepec,34.5
+2159,Ixhuacán de los Reyes,36.1
+2160,Ixhuatlán del Café,37.4
+2161,Ixhuatlancillo,32.8
+2162,Ixhuatlán del Sureste,33.4
+2163,Ixhuatlán de Madero,33.4
+2164,Ixmatlahuacan,30.1
+2165,Ixtaczoquitlán,33.8
+2166,Jalacingo,35.2
+2167,Xalapa,37.5
+2168,Jalcomulco,30.5
+2169,Jáltipan,33.4
+2170,Jamapa,31.9
+2171,Jesús Carranza,36.7
+2172,Xico,31.8
+2173,Jilotepec,33.7
+2174,Juan Rodríguez Clara,31.7
+2175,Juchique de Ferrer,33.5
+2176,Landero y Coss,32.1
+2177,Lerdo de Tejada,29.9
+2178,Magdalena,35.6
+2179,Maltrata,35.6
+2180,Manlio Fabio Altamirano,29.5
+2181,Mariano Escobedo,36.8
+2182,Martínez de la Torre,32.8
+2183,Mecatlán,33.5
+2184,Mecayapan,32.2
+2185,Medellín,31.5
+2186,Miahuatlán,33.9
+2187,Las Minas,38.6
+2188,Minatitlán,34.6
+2189,Misantla,35
+2190,Mixtla de Altamirano,31.6
+2191,Moloacán,34.9
+2192,Naolinco,34.6
+2193,Naranjal,39.2
+2194,Nautla,32.6
+2195,Nogales,34.6
+2196,Oluta,34.5
+2197,Omealca,36.4
+2198,Orizaba,36.5
+2199,Otatitlán,30.2
+2200,Oteapan,32.7
+2201,Ozuluama de Mascareñas,31.4
+2202,Pajapan,33
+2203,Pánuco,33.3
+2204,Papantla,33.8
+2205,Paso del Macho,33.5
+2206,Paso de Ovejas,31.4
+2207,La Perla,38.6
+2208,Perote,32.3
+2209,Platón Sánchez,33.1
+2210,Playa Vicente,33.6
+2211,Poza Rica de Hidalgo,34.2
+2212,Las Vigas de Ramírez,33.2
+2213,Pueblo Viejo,31.7
+2214,Puente Nacional,31.3
+2215,Rafael Delgado,35
+2216,Rafael Lucio,32.2
+2217,Los Reyes,36.5
+2218,Río Blanco,35.1
+2219,Saltabarranca,28.8
+2220,San Andrés Tenejapan,37.5
+2221,San Andrés Tuxtla,31.2
+2222,San Juan Evangelista,33.8
+2223,Santiago Tuxtla,31.6
+2224,Sayula de Alemán,34.2
+2225,Soconusco,33.1
+2226,Sochiapa,41.6
+2227,Soledad Atzompa,31.4
+2228,Soledad de Doblado,32.6
+2229,Soteapan,32.4
+2230,Tamalín,34.4
+2231,Tamiahua,33.1
+2232,Tampico Alto,31.6
+2233,Tancoco,33.1
+2234,Tantima,35.3
+2235,Tantoyuca,36.1
+2236,Tatatila,39.6
+2237,Castillo de Teayo,34
+2238,Tecolutla,32.2
+2239,Tehuipango,35.1
+2240,Álamo Temapache,34.2
+2241,Tempoal,33.7
+2242,Tenampa,38.4
+2243,Tenochtitlán,36.8
+2244,Teocelo,33.9
+2245,Tepatlaxco,40
+2246,Tepetlán,32.5
+2247,Tepetzintla,33.7
+2248,Tequila,35
+2249,José Azueta,33.4
+2250,Texcatepec,32.3
+2251,Texhuacán,37.1
+2252,Texistepec,33.4
+2253,Tezonapa,35.3
+2254,Tierra Blanca,33.5
+2255,Tihuatlán,33.8
+2256,Tlacojalpan,28.5
+2257,Tlacolulan,35.5
+2258,Tlacotalpan,30.7
+2259,Tlacotepec de Mejía,36.4
+2260,Tlachichilco,33.9
+2261,Tlalixcoyan,33.4
+2262,Tlalnelhuayocan,34.4
+2263,Tlapacoyan,34.4
+2264,Tlaquilpa,36.4
+2265,Tlilapan,36.6
+2266,Tomatlán,37.6
+2267,Tonayán,38.5
+2268,Totutla,39
+2269,Tuxpan,33.8
+2270,Tuxtilla,28.7
+2271,Ursulo Galván,31.2
+2272,Vega de Alatorre,33.1
+2273,Veracruz,34.4
+2274,Villa Aldama,29.7
+2275,Xoxocotla,35.4
+2276,Yanga,34.2
+2277,Yecuatla,34.6
+2278,Zacualpan,32.9
+2279,Zaragoza,40.2
+2280,Zentla,37.3
+2281,Zongolica,37.9
+2282,Zontecomatlán de López y Fuentes,30.9
+2283,Zozocolco de Hidalgo,34.4
+2284,Agua Dulce,33.1
+2285,El Higo,32.3
+2286,Nanchital de Lázaro Cárdenas del Río,35.2
+2287,Tres Valles,34.1
+2288,Carlos A. Carrillo,28.7
+2289,Tatahuicapan de Juárez,33.3
+2290,Uxpanapa,36.7
+2291,San Rafael,33.3
+2292,Santiago Sochiapan,35.7
+2293,Abalá,31.7
+2294,Acanceh,34.7
+2295,Akil,33.6
+2296,Baca,32.3
+2297,Bokobá,31.2
+2298,Buctzotz,31.4
+2299,Cacalchén,31.9
+2300,Calotmul,35.4
+2301,Cansahcab,33.1
+2302,Cantamayec,39.4
+2303,Celestún,28.4
+2304,Cenotillo,30.9
+2305,Conkal,34.1
+2306,Cuncunul,40.3
+2307,Cuzamá,34.5
+2308,Chacsinkín,35.1
+2309,Chankom,34
+2310,Chapab,33.2
+2311,Chemax,36.5
+2312,Chicxulub Pueblo,32.5
+2313,Chichimilá,36.9
+2314,Chikindzonot,38.3
+2315,Chocholá,34.3
+2316,Chumayel,35
+2317,Dzán,35.3
+2318,Dzemul,31.4
+2319,Dzidzantún,31.7
+2320,Dzilam de Bravo,29.1
+2321,Dzilam González,28.8
+2322,Dzitás,33.7
+2323,Dzoncauich,32.9
+2324,Espita,35.5
+2325,Halachó,32.2
+2326,Hocabá,32.3
+2327,Hoctún,32.4
+2328,Homún,34
+2329,Huhí,30.4
+2330,Hunucmá,33.2
+2331,Ixil,35.1
+2332,Izamal,33.8
+2333,Kanasín,30
+2334,Kantunil,32.9
+2335,Kaua,29.8
+2336,Kinchil,32.1
+2337,Kopomá,32.5
+2338,Mama,36.1
+2339,Maní,38.1
+2340,Maxcanú,31.8
+2341,Mayapán,30.5
+2342,Mérida,35.9
+2343,Mocochá,32
+2344,Motul,34.1
+2345,Muna,34.4
+2346,Muxupip,35.1
+2347,Opichén,31.7
+2348,Oxkutzcab,35.6
+2349,Panabá,32.9
+2350,Peto,37
+2351,Progreso,31.8
+2352,Quintana Roo,31.4
+2353,Río Lagartos,30
+2354,Sacalum,33.5
+2355,Samahil,33.3
+2356,Sanahcat,34.3
+2357,San Felipe,25.3
+2358,Santa Elena,32.3
+2359,Seyé,33
+2360,Sinanché,32.5
+2361,Sotuta,35
+2362,Sucilá,32
+2363,Sudzal,33.6
+2364,Suma,30.4
+2365,Tahdziú,33.4
+2366,Tahmek,30.7
+2367,Teabo,36.6
+2368,Tecoh,34.4
+2369,Tekal de Venegas,34.4
+2370,Tekantó,34.4
+2371,Tekax,34.8
+2372,Tekit,34.2
+2373,Tekom,37.4
+2374,Telchac Pueblo,34.2
+2375,Telchac Puerto,33.3
+2376,Temax,32.5
+2377,Temozón,35.7
+2378,Tepakán,32.1
+2379,Tetiz,33.7
+2380,Teya,35.6
+2381,Ticul,35.5
+2382,Timucuy,35.3
+2383,Tinum,33.8
+2384,Tixcacalcupul,35.6
+2385,Tixkokob,33.1
+2386,Tixmehuac,34.5
+2387,Tixpéhual,33.7
+2388,Tizimín,35.1
+2389,Tunkás,31.7
+2390,Tzucacab,34.3
+2391,Uayma,33.8
+2392,Ucú,30.3
+2393,Umán,33.9
+2394,Valladolid,37.1
+2395,Xocchel,35.8
+2396,Yaxcabá,34.4
+2397,Yaxkukul,33.7
+2398,Yobaín,31.3
+2399,Apozol,33.2
+2400,Apulco,37.3
+2401,Atolinga,34
+2402,Benito Juárez,35.7
+2403,Calera,31.9
+2404,Cañitas de Felipe Pescador,32
+2405,Concepción del Oro,31.9
+2406,Cuauhtémoc,31.5
+2407,Chalchihuites,33.8
+2408,Fresnillo,34.1
+2409,Trinidad García de la Cadena,32.9
+2410,Genaro Codina,33
+2411,General Enrique Estrada,34.1
+2412,General Francisco R. Murguía,31.2
+2413,El Plateado de Joaquín Amaro,29.6
+2414,General Pánfilo Natera,34.6
+2415,Guadalupe,34.7
+2416,Huanusco,36.7
+2417,Jalpa,36.2
+2418,Jerez,34.9
+2419,Jiménez del Teul,37.2
+2420,Juan Aldama,33.8
+2421,Juchipila,34.2
+2422,Loreto,36.5
+2423,Luis Moya,33.4
+2424,Mazapil,31.6
+2425,Melchor Ocampo,34.2
+2426,Mezquital del Oro,35.9
+2427,Miguel Auza,33.2
+2428,Momax,38
+2429,Monte Escobedo,34.5
+2430,Morelos,31
+2431,Moyahua de Estrada,33.3
+2432,Nochistlán de Mejía,37.7
+2433,Noria de Ángeles,34.1
+2434,Ojocaliente,33.1
+2435,Pánuco,29.1
+2436,Pinos,32.8
+2437,Río Grande,32.8
+2438,Sain Alto,33.1
+2439,El Salvador,31.9
+2440,Sombrerete,32.4
+2441,Susticacán,37.1
+2442,Tabasco,35.9
+2443,Tepechitlán,35.7
+2444,Tepetongo,32.2
+2445,Teúl de González Ortega,35.8
+2446,Tlaltenango de Sánchez Román,35.1
+2447,Valparaíso,33.8
+2448,Vetagrande,32.6
+2449,Villa de Cos,30.5
+2450,Villa García,34.5
+2451,Villa González Ortega,34.2
+2452,Villa Hidalgo,32.3
+2453,Villanueva,33.5
+2454,Zacatecas,36.5
+2455,Trancoso,31.9
+2456,Santa María de la Paz,33

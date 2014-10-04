@@ -4,11 +4,12 @@
 
 	<title>Mortalidad materna</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<link rel="stylesheet" type="text/css" href="	Mapa/style.css">
+	<link rel="stylesheet" type="text/css" href="Mapa/style.css">
 
 	<script src="d3/d3.v3.min.js" charset="utf-8"></script>
 	<script src="d3/topojson.v0.min.js"></script>
 	<script src="Radar/radarChart.js"></script>
+	<script src="jquery.js"></script>
 
 </head>
 
@@ -17,48 +18,41 @@
 		<div id="header">
 		</div>
 		<div class="content_intro">
-			<img src="img/HEADER1.png">
-		</div>
-		<div class="content_intro">
-			<div class="img_intro">IMAGEN</div>
-			<div class="text_intro">TEXTO DE INTRO</div>
-		</div>
-		<div class="content_intro">
-			<div class="img_intro">IMAGEN</div>
-			<div class="text_intro">TEXTO DE INTRO</div>
+			<img src="img/1raParte.png" id="img_head">
 		</div>
 		
 		<div id="content_map">
 			<div class="title">
-			¿QUÉ MUJERES <b>ESTÁN MURIENDO</b>?
-		</div>
+				<span id="graficas"></span>
+			</div>
 			<div>
 				<div id="menu">
 					
 					<div class="div_select">
 						<label class="general_font">GENERAL</label>
 						<select class="menu_select" id="general">
-							<option>opcion 1</option>
-							<option>opcion 2</option>
-							<option>opcion 3</option>
+							<option value= "1">Marginación</option>
+							<option value= "2">Tasa de mortalidad</option>
+							<option value= "3">Tasa de mortalidad rural</option>
+							<option value="4">Tasa de mortalidad urbano</option>
+							<option value="5">Promedio de nacimientos</option>
 						</select>
 					</div>
 
 					<div class="div_select">
 						<label class="mujeres_font">MUJERES</label>
-						<select class="menu_select" id="general">
-							<option>opcion 1</option>
-							<option>opcion 2</option>
-							<option>opcion 3</option>
+						<select class="menu_select" id="mujeres">
+							<option value="6">Mujeres solteras</option>
+							<option value="7">Sólo estudios de primaria</option>
+							<option value="8">Promedio de consultas prenatales</option>
+							<option value="9">Derechohabiencia</option>
 						</select>
 					</div>
 
 					<div class="div_select">
 						<label class="atencion_font">ATENCIÓN</label>
-						<select class="menu_select" id="general">
-							<option>opcion 1</option>
-							<option>opcion 2</option>
-							<option>opcion 3</option>
+						<select class="menu_select" id="atencion">
+							<option value="9">--</option>
 						</select>
 					</div>
 
@@ -67,37 +61,19 @@
 			</div>
 			<div id="map" class="map"></div>
 			<div id="filter">
-
-				<div class="div_select_edo">
-					<labe>Estado:</label>
-					<select class="menu_select" id="general">
-						<option>Edo 1</option>
-						<option>Edo 2</option>
-						<option>Edo 3</option>
-					</select>
-				</div>
-
-				<div class="div_select_edo">
-					<labe>Municipio:</label>
-					<select class="menu_select" id="general">
-						<option>Mun 1</option>
-						<option>Mun 2</option>
-						<option>Mun 3</option>
-					</select>
-				</div>
-
+				<img src="img/AbajoMAPA.png">
 			</div>
-			<div id="info">INFO_MAPA</div>
 		</div>
 		<div id="content_spider">
-			<div class="title">
-			¿CUÁLES SON LAS <b>CAUSAS</b> DE ESTAS <b>MUERTES</b>?
-			</div>
-			<div id="spider"></div>
-			<div id="spider_info">INFO DE SPIDER</div>
+			<img src="img/CONCLU.png">
 		</div>
+
+		<div id="content_spider2">
+			<img src="img/DESEMP.png">
+		</div>
+
 		<script src="Radar/script.js"></script>
-		<div id="footer">footer</div>
+		<div id="footer"></div>
 	</div>
 </body>
 <script type="text/javascript" src="Mapa/script_mapa.js"></script>

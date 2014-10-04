@@ -8,6 +8,7 @@
 
 .state-boundary {
   stroke: #fff;
+  stroke-opacity: .5;
 }
 
 .municipality-boundary {
